@@ -6,6 +6,8 @@
 
 **YetiCrab**
 
-[Презентация]()
+[Презентация](https://docs.google.com/presentation/d/1dpihnItK97drsC-4b6F6tzDCJ3640Ip77VZfoYHWGfM/edit)
 
-[Демо]()
+[Демо](https://drive.google.com/file/d/1oMW2wzccLCd3sZViufCLxr98jFlfQ1E1/view?usp=sharing)
+
+[Макеты]()
