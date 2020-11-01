@@ -1,0 +1,58 @@
+{
+  "name": "MosMetro",
+  "version": "1.0.0",
+  "description": "Модуль интерактивной карты метро города Москвы с возможностью построения маршрута для мобильного приложения iOS и Android",
+  "private": true,
+  "author": {
+    "name": "YetiCrab",
+    "email": "info@yeticrab.org",
+    "url": "https://yeticrab.org/"
+  },
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "@react-native-community/masked-view": "^0.1.10",
+    "@react-navigation/native": "^5.8.2",
+    "@react-navigation/stack": "^5.11.1",
+    "@reduxjs/toolkit": "^1.4.0",
+    "graphlib": "^2.1.8",
+    "k-shortest-path": "0.0.5",
+    "lodash": "^4.17.20",
+    "react": "16.13.1",
+    "react-native": "0.63.3",
+    "react-native-gesture-handler": "^1.8.0",
+    "react-native-reanimated": "^1.13.1",
+    "react-native-safe-area-context": "^3.1.8",
+    "react-native-screens": "^2.12.0",
+    "react-native-svg": "^12.1.0",
+    "react-native-tab-view": "^2.15.2",
+    "react-native-webview": "^10.10.0",
+    "react-redux": "^7.2.2",
+    "reanimated-bottom-sheet": "^1.0.0-alpha.22",
+    "redux": "^4.0.5",
+    "rn-swipeable-panel": "^1.2.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.3",
+    "@babel/runtime": "^7.12.1",
+    "@react-native-community/eslint-config": "^2.0.0",
+    "babel-jest": "^26.6.1",
+    "eslint": "^7.12.1",
+    "jest": "^26.6.1",
+    "metro-react-native-babel-preset": "^0.63.0",
+    "react-test-renderer": "16.13.1"
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "rnpm": {
+    "assets": [
+      "./assets/fonts"
+    ]
+  }
+}

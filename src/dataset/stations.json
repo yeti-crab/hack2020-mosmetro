@@ -1,0 +1,7014 @@
+[
+  {
+    "id": 1,
+    "nameRu": "Бульвар Рокоссовского",
+    "nameEn": "Bulvar Rokossovskogo",
+    "stationId": "line1_1",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 1,
+      "colorName": "e42518",
+      "nameRu": "Сокольническая линия",
+      "nameEn": "Sokolnicheskaya",
+      "lineId": "line1",
+      "lineLogo": {
+        "number": "1",
+        "color": "#e42518"
+      }
+    }
+  },
+  {
+    "id": 2,
+    "nameRu": "Черкизовская",
+    "nameEn": "Cherkizovskaya",
+    "stationId": "line1_2",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 1,
+      "colorName": "e42518",
+      "nameRu": "Сокольническая линия",
+      "nameEn": "Sokolnicheskaya",
+      "lineId": "line1",
+      "lineLogo": {
+        "number": "1",
+        "color": "#e42518"
+      }
+    }
+  },
+  {
+    "id": 3,
+    "nameRu": "Преображенская площадь",
+    "nameEn": "Preobrazhenskaya Ploschad",
+    "stationId": "line1_3",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 1,
+      "colorName": "e42518",
+      "nameRu": "Сокольническая линия",
+      "nameEn": "Sokolnicheskaya",
+      "lineId": "line1",
+      "lineLogo": {
+        "number": "1",
+        "color": "#e42518"
+      }
+    }
+  },
+  {
+    "id": 4,
+    "nameRu": "Сокольники",
+    "nameEn": "Sokolniki",
+    "stationId": "line1_4",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 1,
+      "colorName": "e42518",
+      "nameRu": "Сокольническая линия",
+      "nameEn": "Sokolnicheskaya",
+      "lineId": "line1",
+      "lineLogo": {
+        "number": "1",
+        "color": "#e42518"
+      }
+    }
+  },
+  {
+    "id": 5,
+    "nameRu": "Красносельская",
+    "nameEn": "Krasnoselskaya",
+    "stationId": "line1_5",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 1,
+      "colorName": "e42518",
+      "nameRu": "Сокольническая линия",
+      "nameEn": "Sokolnicheskaya",
+      "lineId": "line1",
+      "lineLogo": {
+        "number": "1",
+        "color": "#e42518"
+      }
+    }
+  },
+  {
+    "id": 8,
+    "nameRu": "Чистые пруды",
+    "nameEn": "Chistie Prudy",
+    "stationId": "line1_8",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 1,
+      "colorName": "e42518",
+      "nameRu": "Сокольническая линия",
+      "nameEn": "Sokolnicheskaya",
+      "lineId": "line1",
+      "lineLogo": {
+        "number": "1",
+        "color": "#e42518"
+      }
+    }
+  },
+  {
+    "id": 9,
+    "nameRu": "Лубянка",
+    "nameEn": "Lubyanka",
+    "stationId": "line1_9",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 1,
+      "colorName": "e42518",
+      "nameRu": "Сокольническая линия",
+      "nameEn": "Sokolnicheskaya",
+      "lineId": "line1",
+      "lineLogo": {
+        "number": "1",
+        "color": "#e42518"
+      }
+    }
+  },
+  {
+    "id": 10,
+    "nameRu": "Охотный Ряд",
+    "nameEn": "Okhotny Ryad",
+    "stationId": "line1_10",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 1,
+      "colorName": "e42518",
+      "nameRu": "Сокольническая линия",
+      "nameEn": "Sokolnicheskaya",
+      "lineId": "line1",
+      "lineLogo": {
+        "number": "1",
+        "color": "#e42518"
+      }
+    }
+  },
+  {
+    "id": 12,
+    "nameRu": "Кропоткинская",
+    "nameEn": "Kropotkinskaya",
+    "stationId": "line1_12",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 1,
+      "colorName": "e42518",
+      "nameRu": "Сокольническая линия",
+      "nameEn": "Sokolnicheskaya",
+      "lineId": "line1",
+      "lineLogo": {
+        "number": "1",
+        "color": "#e42518"
+      }
+    }
+  },
+  {
+    "id": 13,
+    "nameRu": "Парк культуры",
+    "nameEn": "Park Kultury",
+    "stationId": "line1_13",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 1,
+      "colorName": "e42518",
+      "nameRu": "Сокольническая линия",
+      "nameEn": "Sokolnicheskaya",
+      "lineId": "line1",
+      "lineLogo": {
+        "number": "1",
+        "color": "#e42518"
+      }
+    }
+  },
+  {
+    "id": 14,
+    "nameRu": "Фрунзенская",
+    "nameEn": "Frunzenskaya",
+    "stationId": "line1_14",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 1,
+      "colorName": "e42518",
+      "nameRu": "Сокольническая линия",
+      "nameEn": "Sokolnicheskaya",
+      "lineId": "line1",
+      "lineLogo": {
+        "number": "1",
+        "color": "#e42518"
+      }
+    }
+  },
+  {
+    "id": 15,
+    "nameRu": "Спортивная",
+    "nameEn": "Sportivnaya",
+    "stationId": "line1_15",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 1,
+      "colorName": "e42518",
+      "nameRu": "Сокольническая линия",
+      "nameEn": "Sokolnicheskaya",
+      "lineId": "line1",
+      "lineLogo": {
+        "number": "1",
+        "color": "#e42518"
+      }
+    }
+  },
+  {
+    "id": 16,
+    "nameRu": "Воробьёвы горы",
+    "nameEn": "Vorobyovy Gory",
+    "stationId": "line1_16",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 1,
+      "colorName": "e42518",
+      "nameRu": "Сокольническая линия",
+      "nameEn": "Sokolnicheskaya",
+      "lineId": "line1",
+      "lineLogo": {
+        "number": "1",
+        "color": "#e42518"
+      }
+    }
+  },
+  {
+    "id": 17,
+    "nameRu": "Университет",
+    "nameEn": "Universitet",
+    "stationId": "line1_17",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 1,
+      "colorName": "e42518",
+      "nameRu": "Сокольническая линия",
+      "nameEn": "Sokolnicheskaya",
+      "lineId": "line1",
+      "lineLogo": {
+        "number": "1",
+        "color": "#e42518"
+      }
+    }
+  },
+  {
+    "id": 18,
+    "nameRu": "Проспект Вернадского",
+    "nameEn": "Prospekt Vernadskogo",
+    "stationId": "line1_18",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 1,
+      "colorName": "e42518",
+      "nameRu": "Сокольническая линия",
+      "nameEn": "Sokolnicheskaya",
+      "lineId": "line1",
+      "lineLogo": {
+        "number": "1",
+        "color": "#e42518"
+      }
+    }
+  },
+  {
+    "id": 19,
+    "nameRu": "Юго-Западная",
+    "nameEn": "Yugo-Zapadnaya",
+    "stationId": "line1_19",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 1,
+      "colorName": "e42518",
+      "nameRu": "Сокольническая линия",
+      "nameEn": "Sokolnicheskaya",
+      "lineId": "line1",
+      "lineLogo": {
+        "number": "1",
+        "color": "#e42518"
+      }
+    }
+  },
+  {
+    "id": 29,
+    "nameRu": "Речной вокзал",
+    "nameEn": "Rechnoy Vokzal",
+    "stationId": "line2_3",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 2,
+      "colorName": "4baf4f",
+      "nameRu": "Замоскворецкая линия",
+      "nameEn": "Zamoskvoretskaya",
+      "lineId": "line2",
+      "lineLogo": {
+        "number": "2",
+        "color": "#4baf4f"
+      }
+    }
+  },
+  {
+    "id": 30,
+    "nameRu": "Водный стадион",
+    "nameEn": "Vodny Stadion",
+    "stationId": "line2_4",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 2,
+      "colorName": "4baf4f",
+      "nameRu": "Замоскворецкая линия",
+      "nameEn": "Zamoskvoretskaya",
+      "lineId": "line2",
+      "lineLogo": {
+        "number": "2",
+        "color": "#4baf4f"
+      }
+    }
+  },
+  {
+    "id": 31,
+    "nameRu": "Войковская",
+    "nameEn": "Voykovskaya",
+    "stationId": "line2_5",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 2,
+      "colorName": "4baf4f",
+      "nameRu": "Замоскворецкая линия",
+      "nameEn": "Zamoskvoretskaya",
+      "lineId": "line2",
+      "lineLogo": {
+        "number": "2",
+        "color": "#4baf4f"
+      }
+    }
+  },
+  {
+    "id": 32,
+    "nameRu": "Сокол",
+    "nameEn": "Sokol",
+    "stationId": "line2_6",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 2,
+      "colorName": "4baf4f",
+      "nameRu": "Замоскворецкая линия",
+      "nameEn": "Zamoskvoretskaya",
+      "lineId": "line2",
+      "lineLogo": {
+        "number": "2",
+        "color": "#4baf4f"
+      }
+    }
+  },
+  {
+    "id": 33,
+    "nameRu": "Аэропорт",
+    "nameEn": "Aeroport",
+    "stationId": "line2_7",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 2,
+      "colorName": "4baf4f",
+      "nameRu": "Замоскворецкая линия",
+      "nameEn": "Zamoskvoretskaya",
+      "lineId": "line2",
+      "lineLogo": {
+        "number": "2",
+        "color": "#4baf4f"
+      }
+    }
+  },
+  {
+    "id": 34,
+    "nameRu": "Динамо",
+    "nameEn": "Dinamo",
+    "stationId": "line2_8",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 2,
+      "colorName": "4baf4f",
+      "nameRu": "Замоскворецкая линия",
+      "nameEn": "Zamoskvoretskaya",
+      "lineId": "line2",
+      "lineLogo": {
+        "number": "2",
+        "color": "#4baf4f"
+      }
+    }
+  },
+  {
+    "id": 36,
+    "nameRu": "Маяковская",
+    "nameEn": "Mayakovskaya",
+    "stationId": "line2_10",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 2,
+      "colorName": "4baf4f",
+      "nameRu": "Замоскворецкая линия",
+      "nameEn": "Zamoskvoretskaya",
+      "lineId": "line2",
+      "lineLogo": {
+        "number": "2",
+        "color": "#4baf4f"
+      }
+    }
+  },
+  {
+    "id": 37,
+    "nameRu": "Тверская",
+    "nameEn": "Tverskaya",
+    "stationId": "line2_11",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 2,
+      "colorName": "4baf4f",
+      "nameRu": "Замоскворецкая линия",
+      "nameEn": "Zamoskvoretskaya",
+      "lineId": "line2",
+      "lineLogo": {
+        "number": "2",
+        "color": "#4baf4f"
+      }
+    }
+  },
+  {
+    "id": 38,
+    "nameRu": "Театральная",
+    "nameEn": "Teatralnaya",
+    "stationId": "line2_12",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 2,
+      "colorName": "4baf4f",
+      "nameRu": "Замоскворецкая линия",
+      "nameEn": "Zamoskvoretskaya",
+      "lineId": "line2",
+      "lineLogo": {
+        "number": "2",
+        "color": "#4baf4f"
+      }
+    }
+  },
+  {
+    "id": 39,
+    "nameRu": "Новокузнецкая",
+    "nameEn": "Novokuznetskaya",
+    "stationId": "line2_13",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 2,
+      "colorName": "4baf4f",
+      "nameRu": "Замоскворецкая линия",
+      "nameEn": "Zamoskvoretskaya",
+      "lineId": "line2",
+      "lineLogo": {
+        "number": "2",
+        "color": "#4baf4f"
+      }
+    }
+  },
+  {
+    "id": 41,
+    "nameRu": "Автозаводская",
+    "nameEn": "Avtozavodskaya",
+    "stationId": "line2_15",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 2,
+      "colorName": "4baf4f",
+      "nameRu": "Замоскворецкая линия",
+      "nameEn": "Zamoskvoretskaya",
+      "lineId": "line2",
+      "lineLogo": {
+        "number": "2",
+        "color": "#4baf4f"
+      }
+    }
+  },
+  {
+    "id": 43,
+    "nameRu": "Коломенская",
+    "nameEn": "Kolomenskaya",
+    "stationId": "line2_17",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 2,
+      "colorName": "4baf4f",
+      "nameRu": "Замоскворецкая линия",
+      "nameEn": "Zamoskvoretskaya",
+      "lineId": "line2",
+      "lineLogo": {
+        "number": "2",
+        "color": "#4baf4f"
+      }
+    }
+  },
+  {
+    "id": 44,
+    "nameRu": "Каширская",
+    "nameEn": "Kashirskaya",
+    "stationId": "line2_18",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 2,
+      "colorName": "4baf4f",
+      "nameRu": "Замоскворецкая линия",
+      "nameEn": "Zamoskvoretskaya",
+      "lineId": "line2",
+      "lineLogo": {
+        "number": "2",
+        "color": "#4baf4f"
+      }
+    }
+  },
+  {
+    "id": 45,
+    "nameRu": "Кантемировская",
+    "nameEn": "Kantemirovskaya",
+    "stationId": "line2_19",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 2,
+      "colorName": "4baf4f",
+      "nameRu": "Замоскворецкая линия",
+      "nameEn": "Zamoskvoretskaya",
+      "lineId": "line2",
+      "lineLogo": {
+        "number": "2",
+        "color": "#4baf4f"
+      }
+    }
+  },
+  {
+    "id": 46,
+    "nameRu": "Царицыно",
+    "nameEn": "Tsaritsyno",
+    "stationId": "line2_20",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 2,
+      "colorName": "4baf4f",
+      "nameRu": "Замоскворецкая линия",
+      "nameEn": "Zamoskvoretskaya",
+      "lineId": "line2",
+      "lineLogo": {
+        "number": "2",
+        "color": "#4baf4f"
+      }
+    }
+  },
+  {
+    "id": 47,
+    "nameRu": "Орехово",
+    "nameEn": "Orekhovo",
+    "stationId": "line2_21",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 2,
+      "colorName": "4baf4f",
+      "nameRu": "Замоскворецкая линия",
+      "nameEn": "Zamoskvoretskaya",
+      "lineId": "line2",
+      "lineLogo": {
+        "number": "2",
+        "color": "#4baf4f"
+      }
+    }
+  },
+  {
+    "id": 48,
+    "nameRu": "Домодедовская",
+    "nameEn": "Domodedovskaya",
+    "stationId": "line2_22",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 2,
+      "colorName": "4baf4f",
+      "nameRu": "Замоскворецкая линия",
+      "nameEn": "Zamoskvoretskaya",
+      "lineId": "line2",
+      "lineLogo": {
+        "number": "2",
+        "color": "#4baf4f"
+      }
+    }
+  },
+  {
+    "id": 49,
+    "nameRu": "Красногвардейская",
+    "nameEn": "Krasnogvardeyskaya",
+    "stationId": "line2_23",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 2,
+      "colorName": "4baf4f",
+      "nameRu": "Замоскворецкая линия",
+      "nameEn": "Zamoskvoretskaya",
+      "lineId": "line2",
+      "lineLogo": {
+        "number": "2",
+        "color": "#4baf4f"
+      }
+    }
+  },
+  {
+    "id": 52,
+    "nameRu": "Митино",
+    "nameEn": "Mitino",
+    "stationId": "line3_2",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 3,
+      "colorName": "0572b9",
+      "nameRu": "Арбатско-Покровская линия",
+      "nameEn": "Arbatsko-Pokrovskaya",
+      "lineId": "line3",
+      "lineLogo": {
+        "number": "3",
+        "color": "#0572b9"
+      }
+    }
+  },
+  {
+    "id": 53,
+    "nameRu": "Волоколамская",
+    "nameEn": "Volokolamskaya",
+    "stationId": "line3_3",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 3,
+      "colorName": "0572b9",
+      "nameRu": "Арбатско-Покровская линия",
+      "nameEn": "Arbatsko-Pokrovskaya",
+      "lineId": "line3",
+      "lineLogo": {
+        "number": "3",
+        "color": "#0572b9"
+      }
+    }
+  },
+  {
+    "id": 54,
+    "nameRu": "Мякинино",
+    "nameEn": "Myakinino",
+    "stationId": "line3_4",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 3,
+      "colorName": "0572b9",
+      "nameRu": "Арбатско-Покровская линия",
+      "nameEn": "Arbatsko-Pokrovskaya",
+      "lineId": "line3",
+      "lineLogo": {
+        "number": "3",
+        "color": "#0572b9"
+      }
+    }
+  },
+  {
+    "id": 55,
+    "nameRu": "Строгино",
+    "nameEn": "Strogino",
+    "stationId": "line3_5",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 3,
+      "colorName": "0572b9",
+      "nameRu": "Арбатско-Покровская линия",
+      "nameEn": "Arbatsko-Pokrovskaya",
+      "lineId": "line3",
+      "lineLogo": {
+        "number": "3",
+        "color": "#0572b9"
+      }
+    }
+  },
+  {
+    "id": 56,
+    "nameRu": "Крылатское",
+    "nameEn": "Krylatskoe",
+    "stationId": "line3_6",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 3,
+      "colorName": "0572b9",
+      "nameRu": "Арбатско-Покровская линия",
+      "nameEn": "Arbatsko-Pokrovskaya",
+      "lineId": "line3",
+      "lineLogo": {
+        "number": "3",
+        "color": "#0572b9"
+      }
+    }
+  },
+  {
+    "id": 57,
+    "nameRu": "Молодёжная",
+    "nameEn": "Molodyozhnaya",
+    "stationId": "line3_7",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 3,
+      "colorName": "0572b9",
+      "nameRu": "Арбатско-Покровская линия",
+      "nameEn": "Arbatsko-Pokrovskaya",
+      "lineId": "line3",
+      "lineLogo": {
+        "number": "3",
+        "color": "#0572b9"
+      }
+    }
+  },
+  {
+    "id": 58,
+    "nameRu": "Кунцевская",
+    "nameEn": "Kuntsevskaya",
+    "stationId": "line3_8",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 3,
+      "colorName": "0572b9",
+      "nameRu": "Арбатско-Покровская линия",
+      "nameEn": "Arbatsko-Pokrovskaya",
+      "lineId": "line3",
+      "lineLogo": {
+        "number": "3",
+        "color": "#0572b9"
+      }
+    }
+  },
+  {
+    "id": 59,
+    "nameRu": "Славянский бульвар",
+    "nameEn": "Slavyansky Bulvar",
+    "stationId": "line3_9",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 3,
+      "colorName": "0572b9",
+      "nameRu": "Арбатско-Покровская линия",
+      "nameEn": "Arbatsko-Pokrovskaya",
+      "lineId": "line3",
+      "lineLogo": {
+        "number": "3",
+        "color": "#0572b9"
+      }
+    }
+  },
+  {
+    "id": 60,
+    "nameRu": "Парк Победы",
+    "nameEn": "Park Pobedy",
+    "stationId": "line3_10",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 3,
+      "colorName": "0572b9",
+      "nameRu": "Арбатско-Покровская линия",
+      "nameEn": "Arbatsko-Pokrovskaya",
+      "lineId": "line3",
+      "lineLogo": {
+        "number": "3",
+        "color": "#0572b9"
+      }
+    }
+  },
+  {
+    "id": 63,
+    "nameRu": "Арбатская",
+    "nameEn": "Arbatskaya",
+    "stationId": "line3_13",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 3,
+      "colorName": "0572b9",
+      "nameRu": "Арбатско-Покровская линия",
+      "nameEn": "Arbatsko-Pokrovskaya",
+      "lineId": "line3",
+      "lineLogo": {
+        "number": "3",
+        "color": "#0572b9"
+      }
+    }
+  },
+  {
+    "id": 64,
+    "nameRu": "Площадь Революции",
+    "nameEn": "Ploschad Revolyutsii",
+    "stationId": "line3_14",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 3,
+      "colorName": "0572b9",
+      "nameRu": "Арбатско-Покровская линия",
+      "nameEn": "Arbatsko-Pokrovskaya",
+      "lineId": "line3",
+      "lineLogo": {
+        "number": "3",
+        "color": "#0572b9"
+      }
+    }
+  },
+  {
+    "id": 65,
+    "nameRu": "Курская",
+    "nameEn": "Kurskaya",
+    "stationId": "line3_15",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 3,
+      "colorName": "0572b9",
+      "nameRu": "Арбатско-Покровская линия",
+      "nameEn": "Arbatsko-Pokrovskaya",
+      "lineId": "line3",
+      "lineLogo": {
+        "number": "3",
+        "color": "#0572b9"
+      }
+    }
+  },
+  {
+    "id": 66,
+    "nameRu": "Бауманская",
+    "nameEn": "Baumanskaya",
+    "stationId": "line3_16",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 3,
+      "colorName": "0572b9",
+      "nameRu": "Арбатско-Покровская линия",
+      "nameEn": "Arbatsko-Pokrovskaya",
+      "lineId": "line3",
+      "lineLogo": {
+        "number": "3",
+        "color": "#0572b9"
+      }
+    }
+  },
+  {
+    "id": 67,
+    "nameRu": "Электрозаводская",
+    "nameEn": "Elektrozavodskaya",
+    "stationId": "line3_17",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 3,
+      "colorName": "0572b9",
+      "nameRu": "Арбатско-Покровская линия",
+      "nameEn": "Arbatsko-Pokrovskaya",
+      "lineId": "line3",
+      "lineLogo": {
+        "number": "3",
+        "color": "#0572b9"
+      }
+    }
+  },
+  {
+    "id": 68,
+    "nameRu": "Семёновская",
+    "nameEn": "Semyonovskaya",
+    "stationId": "line3_18",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 3,
+      "colorName": "0572b9",
+      "nameRu": "Арбатско-Покровская линия",
+      "nameEn": "Arbatsko-Pokrovskaya",
+      "lineId": "line3",
+      "lineLogo": {
+        "number": "3",
+        "color": "#0572b9"
+      }
+    }
+  },
+  {
+    "id": 69,
+    "nameRu": "Партизанская",
+    "nameEn": "Partizanskaya",
+    "stationId": "line3_19",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 3,
+      "colorName": "0572b9",
+      "nameRu": "Арбатско-Покровская линия",
+      "nameEn": "Arbatsko-Pokrovskaya",
+      "lineId": "line3",
+      "lineLogo": {
+        "number": "3",
+        "color": "#0572b9"
+      }
+    }
+  },
+  {
+    "id": 70,
+    "nameRu": "Измайловская",
+    "nameEn": "Izmaylovskaya",
+    "stationId": "line3_20",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 3,
+      "colorName": "0572b9",
+      "nameRu": "Арбатско-Покровская линия",
+      "nameEn": "Arbatsko-Pokrovskaya",
+      "lineId": "line3",
+      "lineLogo": {
+        "number": "3",
+        "color": "#0572b9"
+      }
+    }
+  },
+  {
+    "id": 71,
+    "nameRu": "Первомайская",
+    "nameEn": "Pervomayskaya",
+    "stationId": "line3_21",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 3,
+      "colorName": "0572b9",
+      "nameRu": "Арбатско-Покровская линия",
+      "nameEn": "Arbatsko-Pokrovskaya",
+      "lineId": "line3",
+      "lineLogo": {
+        "number": "3",
+        "color": "#0572b9"
+      }
+    }
+  },
+  {
+    "id": 72,
+    "nameRu": "Щёлковская",
+    "nameEn": "Schelkovskaya",
+    "stationId": "line3_22",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 3,
+      "colorName": "0572b9",
+      "nameRu": "Арбатско-Покровская линия",
+      "nameEn": "Arbatsko-Pokrovskaya",
+      "lineId": "line3",
+      "lineLogo": {
+        "number": "3",
+        "color": "#0572b9"
+      }
+    }
+  },
+  {
+    "id": 73,
+    "nameRu": "Александровский сад",
+    "nameEn": "Aleksandrovsky Sad",
+    "stationId": "line4_1",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 4,
+      "colorName": "24bcee",
+      "nameRu": "Филёвская линия",
+      "nameEn": "Filyovskaya",
+      "lineId": "line4",
+      "lineLogo": {
+        "number": "4",
+        "color": "#24bcee"
+      }
+    }
+  },
+  {
+    "id": 74,
+    "nameRu": "Арбатская",
+    "nameEn": "Arbatskaya",
+    "stationId": "line4_2",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 4,
+      "colorName": "24bcee",
+      "nameRu": "Филёвская линия",
+      "nameEn": "Filyovskaya",
+      "lineId": "line4",
+      "lineLogo": {
+        "number": "4",
+        "color": "#24bcee"
+      }
+    }
+  },
+  {
+    "id": 75,
+    "nameRu": "Смоленская",
+    "nameEn": "Smolenskaya",
+    "stationId": "line4_3",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 4,
+      "colorName": "24bcee",
+      "nameRu": "Филёвская линия",
+      "nameEn": "Filyovskaya",
+      "lineId": "line4",
+      "lineLogo": {
+        "number": "4",
+        "color": "#24bcee"
+      }
+    }
+  },
+  {
+    "id": 76,
+    "nameRu": "Киевская",
+    "nameEn": "Kievskaya",
+    "stationId": "line4_4",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 4,
+      "colorName": "24bcee",
+      "nameRu": "Филёвская линия",
+      "nameEn": "Filyovskaya",
+      "lineId": "line4",
+      "lineLogo": {
+        "number": "4",
+        "color": "#24bcee"
+      }
+    }
+  },
+  {
+    "id": 77,
+    "nameRu": "Студенческая",
+    "nameEn": "Studencheskaya",
+    "stationId": "line4_7",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 4,
+      "colorName": "24bcee",
+      "nameRu": "Филёвская линия",
+      "nameEn": "Filyovskaya",
+      "lineId": "line4",
+      "lineLogo": {
+        "number": "4",
+        "color": "#24bcee"
+      }
+    }
+  },
+  {
+    "id": 78,
+    "nameRu": "Кутузовская",
+    "nameEn": "Kutuzovskaya",
+    "stationId": "line4_8",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 4,
+      "colorName": "24bcee",
+      "nameRu": "Филёвская линия",
+      "nameEn": "Filyovskaya",
+      "lineId": "line4",
+      "lineLogo": {
+        "number": "4",
+        "color": "#24bcee"
+      }
+    }
+  },
+  {
+    "id": 79,
+    "nameRu": "Фили",
+    "nameEn": "Fili",
+    "stationId": "line4_9",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 4,
+      "colorName": "24bcee",
+      "nameRu": "Филёвская линия",
+      "nameEn": "Filyovskaya",
+      "lineId": "line4",
+      "lineLogo": {
+        "number": "4",
+        "color": "#24bcee"
+      }
+    }
+  },
+  {
+    "id": 80,
+    "nameRu": "Багратионовская",
+    "nameEn": "Bagrationovskaya",
+    "stationId": "line4_10",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 4,
+      "colorName": "24bcee",
+      "nameRu": "Филёвская линия",
+      "nameEn": "Filyovskaya",
+      "lineId": "line4",
+      "lineLogo": {
+        "number": "4",
+        "color": "#24bcee"
+      }
+    }
+  },
+  {
+    "id": 22,
+    "nameRu": "Саларьево",
+    "nameEn": "Salaryevo",
+    "stationId": "line1_22",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 1,
+      "colorName": "e42518",
+      "nameRu": "Сокольническая линия",
+      "nameEn": "Sokolnicheskaya",
+      "lineId": "line1",
+      "lineLogo": {
+        "number": "1",
+        "color": "#e42518"
+      }
+    }
+  },
+  {
+    "id": 23,
+    "nameRu": "Филатов Луг",
+    "nameEn": "Filatov Lug",
+    "stationId": "line1_23",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 1,
+      "colorName": "e42518",
+      "nameRu": "Сокольническая линия",
+      "nameEn": "Sokolnicheskaya",
+      "lineId": "line1",
+      "lineLogo": {
+        "number": "1",
+        "color": "#e42518"
+      }
+    }
+  },
+  {
+    "id": 24,
+    "nameRu": "Прокшино",
+    "nameEn": "Prokshino",
+    "stationId": "line1_24",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 1,
+      "colorName": "e42518",
+      "nameRu": "Сокольническая линия",
+      "nameEn": "Sokolnicheskaya",
+      "lineId": "line1",
+      "lineLogo": {
+        "number": "1",
+        "color": "#e42518"
+      }
+    }
+  },
+  {
+    "id": 25,
+    "nameRu": "Ольховая",
+    "nameEn": "Olkhovaya",
+    "stationId": "line1_25",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 1,
+      "colorName": "e42518",
+      "nameRu": "Сокольническая линия",
+      "nameEn": "Sokolnicheskaya",
+      "lineId": "line1",
+      "lineLogo": {
+        "number": "1",
+        "color": "#e42518"
+      }
+    }
+  },
+  {
+    "id": 26,
+    "nameRu": "Коммунарка",
+    "nameEn": "Kommunarka",
+    "stationId": "line1_26",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 1,
+      "colorName": "e42518",
+      "nameRu": "Сокольническая линия",
+      "nameEn": "Sokolnicheskaya",
+      "lineId": "line1",
+      "lineLogo": {
+        "number": "1",
+        "color": "#e42518"
+      }
+    }
+  },
+  {
+    "id": 42,
+    "nameRu": "Технопарк",
+    "nameEn": "Tekhnopark",
+    "stationId": "line2_16",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 2,
+      "colorName": "4baf4f",
+      "nameRu": "Замоскворецкая линия",
+      "nameEn": "Zamoskvoretskaya",
+      "lineId": "line2",
+      "lineLogo": {
+        "number": "2",
+        "color": "#4baf4f"
+      }
+    }
+  },
+  {
+    "id": 27,
+    "nameRu": "Ховрино",
+    "nameEn": "Khovrino",
+    "stationId": "line2_1",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 2,
+      "colorName": "4baf4f",
+      "nameRu": "Замоскворецкая линия",
+      "nameEn": "Zamoskvoretskaya",
+      "lineId": "line2",
+      "lineLogo": {
+        "number": "2",
+        "color": "#4baf4f"
+      }
+    }
+  },
+  {
+    "id": 35,
+    "nameRu": "Белорусская",
+    "nameEn": "Belorusskaya",
+    "stationId": "line2_9",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 2,
+      "colorName": "4baf4f",
+      "nameRu": "Замоскворецкая линия",
+      "nameEn": "Zamoskvoretskaya",
+      "lineId": "line2",
+      "lineLogo": {
+        "number": "2",
+        "color": "#4baf4f"
+      }
+    }
+  },
+  {
+    "id": 28,
+    "nameRu": "Беломорская",
+    "nameEn": "Belomorskaya",
+    "stationId": "line2_2",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 2,
+      "colorName": "4baf4f",
+      "nameRu": "Замоскворецкая линия",
+      "nameEn": "Zamoskvoretskaya",
+      "lineId": "line2",
+      "lineLogo": {
+        "number": "2",
+        "color": "#4baf4f"
+      }
+    }
+  },
+  {
+    "id": 61,
+    "nameRu": "Киевская",
+    "nameEn": "Kievskaya",
+    "stationId": "line3_11",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 3,
+      "colorName": "0572b9",
+      "nameRu": "Арбатско-Покровская линия",
+      "nameEn": "Arbatsko-Pokrovskaya",
+      "lineId": "line3",
+      "lineLogo": {
+        "number": "3",
+        "color": "#0572b9"
+      }
+    }
+  },
+  {
+    "id": 40,
+    "nameRu": "Павелецкая",
+    "nameEn": "Paveletskaya",
+    "stationId": "line2_14",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 2,
+      "colorName": "4baf4f",
+      "nameRu": "Замоскворецкая линия",
+      "nameEn": "Zamoskvoretskaya",
+      "lineId": "line2",
+      "lineLogo": {
+        "number": "2",
+        "color": "#4baf4f"
+      }
+    }
+  },
+  {
+    "id": 51,
+    "nameRu": "Пятницкое шоссе",
+    "nameEn": "Pyatnitskoe Shosse",
+    "stationId": "line3_1",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 3,
+      "colorName": "0572b9",
+      "nameRu": "Арбатско-Покровская линия",
+      "nameEn": "Arbatsko-Pokrovskaya",
+      "lineId": "line3",
+      "lineLogo": {
+        "number": "3",
+        "color": "#0572b9"
+      }
+    }
+  },
+  {
+    "id": 82,
+    "nameRu": "Пионерская",
+    "nameEn": "Pionerskaya",
+    "stationId": "line4_12",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 4,
+      "colorName": "24bcee",
+      "nameRu": "Филёвская линия",
+      "nameEn": "Filyovskaya",
+      "lineId": "line4",
+      "lineLogo": {
+        "number": "4",
+        "color": "#24bcee"
+      }
+    }
+  },
+  {
+    "id": 83,
+    "nameRu": "Кунцевская",
+    "nameEn": "Kuntsevskaya",
+    "stationId": "line4_13",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 4,
+      "colorName": "24bcee",
+      "nameRu": "Филёвская линия",
+      "nameEn": "Filyovskaya",
+      "lineId": "line4",
+      "lineLogo": {
+        "number": "4",
+        "color": "#24bcee"
+      }
+    }
+  },
+  {
+    "id": 84,
+    "nameRu": "Выставочная",
+    "nameEn": "Vystavochnaya",
+    "stationId": "line4_5",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 4,
+      "colorName": "24bcee",
+      "nameRu": "Филёвская линия",
+      "nameEn": "Filyovskaya",
+      "lineId": "line4",
+      "lineLogo": {
+        "number": "4",
+        "color": "#24bcee"
+      }
+    }
+  },
+  {
+    "id": 86,
+    "nameRu": "Комсомольская",
+    "nameEn": "Komsomolskaya",
+    "stationId": "line5_1",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 6,
+      "colorName": "925233",
+      "nameRu": "Кольцевая линия",
+      "nameEn": "Koltsevaya",
+      "lineId": "line5",
+      "lineLogo": {
+        "number": "5",
+        "color": "#925233"
+      }
+    }
+  },
+  {
+    "id": 87,
+    "nameRu": "Курская",
+    "nameEn": "Kurskaya",
+    "stationId": "line5_2",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 6,
+      "colorName": "925233",
+      "nameRu": "Кольцевая линия",
+      "nameEn": "Koltsevaya",
+      "lineId": "line5",
+      "lineLogo": {
+        "number": "5",
+        "color": "#925233"
+      }
+    }
+  },
+  {
+    "id": 88,
+    "nameRu": "Таганская",
+    "nameEn": "Taganskaya",
+    "stationId": "line5_3",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 6,
+      "colorName": "925233",
+      "nameRu": "Кольцевая линия",
+      "nameEn": "Koltsevaya",
+      "lineId": "line5",
+      "lineLogo": {
+        "number": "5",
+        "color": "#925233"
+      }
+    }
+  },
+  {
+    "id": 89,
+    "nameRu": "Павелецкая",
+    "nameEn": "Paveletskaya",
+    "stationId": "line5_4",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 6,
+      "colorName": "925233",
+      "nameRu": "Кольцевая линия",
+      "nameEn": "Koltsevaya",
+      "lineId": "line5",
+      "lineLogo": {
+        "number": "5",
+        "color": "#925233"
+      }
+    }
+  },
+  {
+    "id": 90,
+    "nameRu": "Добрынинская",
+    "nameEn": "Dobryninskaya",
+    "stationId": "line5_5",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 6,
+      "colorName": "925233",
+      "nameRu": "Кольцевая линия",
+      "nameEn": "Koltsevaya",
+      "lineId": "line5",
+      "lineLogo": {
+        "number": "5",
+        "color": "#925233"
+      }
+    }
+  },
+  {
+    "id": 91,
+    "nameRu": "Октябрьская",
+    "nameEn": "Oktyabrskaya",
+    "stationId": "line5_6",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 6,
+      "colorName": "925233",
+      "nameRu": "Кольцевая линия",
+      "nameEn": "Koltsevaya",
+      "lineId": "line5",
+      "lineLogo": {
+        "number": "5",
+        "color": "#925233"
+      }
+    }
+  },
+  {
+    "id": 92,
+    "nameRu": "Парк культуры",
+    "nameEn": "Park Kultury",
+    "stationId": "line5_7",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 6,
+      "colorName": "925233",
+      "nameRu": "Кольцевая линия",
+      "nameEn": "Koltsevaya",
+      "lineId": "line5",
+      "lineLogo": {
+        "number": "5",
+        "color": "#925233"
+      }
+    }
+  },
+  {
+    "id": 93,
+    "nameRu": "Киевская",
+    "nameEn": "Kievskaya",
+    "stationId": "line5_8",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 6,
+      "colorName": "925233",
+      "nameRu": "Кольцевая линия",
+      "nameEn": "Koltsevaya",
+      "lineId": "line5",
+      "lineLogo": {
+        "number": "5",
+        "color": "#925233"
+      }
+    }
+  },
+  {
+    "id": 81,
+    "nameRu": "Филевский парк",
+    "nameEn": "Filevskij park",
+    "stationId": "line4_11",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 4,
+      "colorName": "24bcee",
+      "nameRu": "Филёвская линия",
+      "nameEn": "Filyovskaya",
+      "lineId": "line4",
+      "lineLogo": {
+        "number": "4",
+        "color": "#24bcee"
+      }
+    }
+  },
+  {
+    "id": 11,
+    "nameRu": "Библиотека им. Ленина",
+    "nameEn": "Biblioteka imeni Lenina",
+    "stationId": "line1_11",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 1,
+      "colorName": "e42518",
+      "nameRu": "Сокольническая линия",
+      "nameEn": "Sokolnicheskaya",
+      "lineId": "line1",
+      "lineLogo": {
+        "number": "1",
+        "color": "#e42518"
+      }
+    }
+  },
+  {
+    "id": 94,
+    "nameRu": "Краснопресненская",
+    "nameEn": "Krasnopresnenskaya",
+    "stationId": "line5_9",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 6,
+      "colorName": "925233",
+      "nameRu": "Кольцевая линия",
+      "nameEn": "Koltsevaya",
+      "lineId": "line5",
+      "lineLogo": {
+        "number": "5",
+        "color": "#925233"
+      }
+    }
+  },
+  {
+    "id": 95,
+    "nameRu": "Белорусская",
+    "nameEn": "Belorusskaya",
+    "stationId": "line5_10",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 6,
+      "colorName": "925233",
+      "nameRu": "Кольцевая линия",
+      "nameEn": "Koltsevaya",
+      "lineId": "line5",
+      "lineLogo": {
+        "number": "5",
+        "color": "#925233"
+      }
+    }
+  },
+  {
+    "id": 96,
+    "nameRu": "Новослободская",
+    "nameEn": "Novoslobodskaya",
+    "stationId": "line5_11",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 6,
+      "colorName": "925233",
+      "nameRu": "Кольцевая линия",
+      "nameEn": "Koltsevaya",
+      "lineId": "line5",
+      "lineLogo": {
+        "number": "5",
+        "color": "#925233"
+      }
+    }
+  },
+  {
+    "id": 97,
+    "nameRu": "Проспект Мира",
+    "nameEn": "Prospekt Mira",
+    "stationId": "line5_12",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 6,
+      "colorName": "925233",
+      "nameRu": "Кольцевая линия",
+      "nameEn": "Koltsevaya",
+      "lineId": "line5",
+      "lineLogo": {
+        "number": "5",
+        "color": "#925233"
+      }
+    }
+  },
+  {
+    "id": 98,
+    "nameRu": "Медведково",
+    "nameEn": "Medvedkovo",
+    "stationId": "line6_1",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 7,
+      "colorName": "ef7e24",
+      "nameRu": "Калужско-Рижская линия",
+      "nameEn": "Kaluzhsko-Rizhskaya",
+      "lineId": "line6",
+      "lineLogo": {
+        "number": "6",
+        "color": "#ef7e24"
+      }
+    }
+  },
+  {
+    "id": 99,
+    "nameRu": "Бабушкинская",
+    "nameEn": "Babushkinskaya",
+    "stationId": "line6_2",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 7,
+      "colorName": "ef7e24",
+      "nameRu": "Калужско-Рижская линия",
+      "nameEn": "Kaluzhsko-Rizhskaya",
+      "lineId": "line6",
+      "lineLogo": {
+        "number": "6",
+        "color": "#ef7e24"
+      }
+    }
+  },
+  {
+    "id": 100,
+    "nameRu": "Свиблово",
+    "nameEn": "Sviblovo",
+    "stationId": "line6_3",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 7,
+      "colorName": "ef7e24",
+      "nameRu": "Калужско-Рижская линия",
+      "nameEn": "Kaluzhsko-Rizhskaya",
+      "lineId": "line6",
+      "lineLogo": {
+        "number": "6",
+        "color": "#ef7e24"
+      }
+    }
+  },
+  {
+    "id": 101,
+    "nameRu": "Ботанический сад",
+    "nameEn": "Botanichesky Sad",
+    "stationId": "line6_4",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 7,
+      "colorName": "ef7e24",
+      "nameRu": "Калужско-Рижская линия",
+      "nameEn": "Kaluzhsko-Rizhskaya",
+      "lineId": "line6",
+      "lineLogo": {
+        "number": "6",
+        "color": "#ef7e24"
+      }
+    }
+  },
+  {
+    "id": 102,
+    "nameRu": "ВДНХ",
+    "nameEn": "VDNKh",
+    "stationId": "line6_5",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 7,
+      "colorName": "ef7e24",
+      "nameRu": "Калужско-Рижская линия",
+      "nameEn": "Kaluzhsko-Rizhskaya",
+      "lineId": "line6",
+      "lineLogo": {
+        "number": "6",
+        "color": "#ef7e24"
+      }
+    }
+  },
+  {
+    "id": 103,
+    "nameRu": "Алексеевская",
+    "nameEn": "Alekseevskaya",
+    "stationId": "line6_6",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 7,
+      "colorName": "ef7e24",
+      "nameRu": "Калужско-Рижская линия",
+      "nameEn": "Kaluzhsko-Rizhskaya",
+      "lineId": "line6",
+      "lineLogo": {
+        "number": "6",
+        "color": "#ef7e24"
+      }
+    }
+  },
+  {
+    "id": 104,
+    "nameRu": "Рижская",
+    "nameEn": "Rizhskaya",
+    "stationId": "line6_7",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 7,
+      "colorName": "ef7e24",
+      "nameRu": "Калужско-Рижская линия",
+      "nameEn": "Kaluzhsko-Rizhskaya",
+      "lineId": "line6",
+      "lineLogo": {
+        "number": "6",
+        "color": "#ef7e24"
+      }
+    }
+  },
+  {
+    "id": 105,
+    "nameRu": "Проспект Мира",
+    "nameEn": "Prospekt Mira",
+    "stationId": "line6_8",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 7,
+      "colorName": "ef7e24",
+      "nameRu": "Калужско-Рижская линия",
+      "nameEn": "Kaluzhsko-Rizhskaya",
+      "lineId": "line6",
+      "lineLogo": {
+        "number": "6",
+        "color": "#ef7e24"
+      }
+    }
+  },
+  {
+    "id": 106,
+    "nameRu": "Сухаревская",
+    "nameEn": "Sukharevskaya",
+    "stationId": "line6_9",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 7,
+      "colorName": "ef7e24",
+      "nameRu": "Калужско-Рижская линия",
+      "nameEn": "Kaluzhsko-Rizhskaya",
+      "lineId": "line6",
+      "lineLogo": {
+        "number": "6",
+        "color": "#ef7e24"
+      }
+    }
+  },
+  {
+    "id": 107,
+    "nameRu": "Тургеневская",
+    "nameEn": "Turgenevskaya",
+    "stationId": "line6_10",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 7,
+      "colorName": "ef7e24",
+      "nameRu": "Калужско-Рижская линия",
+      "nameEn": "Kaluzhsko-Rizhskaya",
+      "lineId": "line6",
+      "lineLogo": {
+        "number": "6",
+        "color": "#ef7e24"
+      }
+    }
+  },
+  {
+    "id": 108,
+    "nameRu": "Китай-город",
+    "nameEn": "Kitay-Gorod",
+    "stationId": "line6_11",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 7,
+      "colorName": "ef7e24",
+      "nameRu": "Калужско-Рижская линия",
+      "nameEn": "Kaluzhsko-Rizhskaya",
+      "lineId": "line6",
+      "lineLogo": {
+        "number": "6",
+        "color": "#ef7e24"
+      }
+    }
+  },
+  {
+    "id": 109,
+    "nameRu": "Третьяковская",
+    "nameEn": "Tretyakovskaya",
+    "stationId": "line6_12",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 7,
+      "colorName": "ef7e24",
+      "nameRu": "Калужско-Рижская линия",
+      "nameEn": "Kaluzhsko-Rizhskaya",
+      "lineId": "line6",
+      "lineLogo": {
+        "number": "6",
+        "color": "#ef7e24"
+      }
+    }
+  },
+  {
+    "id": 110,
+    "nameRu": "Октябрьская",
+    "nameEn": "Oktyabrskaya",
+    "stationId": "line6_13",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 7,
+      "colorName": "ef7e24",
+      "nameRu": "Калужско-Рижская линия",
+      "nameEn": "Kaluzhsko-Rizhskaya",
+      "lineId": "line6",
+      "lineLogo": {
+        "number": "6",
+        "color": "#ef7e24"
+      }
+    }
+  },
+  {
+    "id": 111,
+    "nameRu": "Шаболовская",
+    "nameEn": "Shabolovskaya",
+    "stationId": "line6_14",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 7,
+      "colorName": "ef7e24",
+      "nameRu": "Калужско-Рижская линия",
+      "nameEn": "Kaluzhsko-Rizhskaya",
+      "lineId": "line6",
+      "lineLogo": {
+        "number": "6",
+        "color": "#ef7e24"
+      }
+    }
+  },
+  {
+    "id": 112,
+    "nameRu": "Ленинский проспект",
+    "nameEn": "Leninsky Prospekt",
+    "stationId": "line6_15",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 7,
+      "colorName": "ef7e24",
+      "nameRu": "Калужско-Рижская линия",
+      "nameEn": "Kaluzhsko-Rizhskaya",
+      "lineId": "line6",
+      "lineLogo": {
+        "number": "6",
+        "color": "#ef7e24"
+      }
+    }
+  },
+  {
+    "id": 113,
+    "nameRu": "Академическая",
+    "nameEn": "Akademicheskaya",
+    "stationId": "line6_16",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 7,
+      "colorName": "ef7e24",
+      "nameRu": "Калужско-Рижская линия",
+      "nameEn": "Kaluzhsko-Rizhskaya",
+      "lineId": "line6",
+      "lineLogo": {
+        "number": "6",
+        "color": "#ef7e24"
+      }
+    }
+  },
+  {
+    "id": 114,
+    "nameRu": "Профсоюзная",
+    "nameEn": "Profsoyuznaya",
+    "stationId": "line6_17",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 7,
+      "colorName": "ef7e24",
+      "nameRu": "Калужско-Рижская линия",
+      "nameEn": "Kaluzhsko-Rizhskaya",
+      "lineId": "line6",
+      "lineLogo": {
+        "number": "6",
+        "color": "#ef7e24"
+      }
+    }
+  },
+  {
+    "id": 115,
+    "nameRu": "Новые Черёмушки",
+    "nameEn": "Novie Cheryomushki",
+    "stationId": "line6_18",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 7,
+      "colorName": "ef7e24",
+      "nameRu": "Калужско-Рижская линия",
+      "nameEn": "Kaluzhsko-Rizhskaya",
+      "lineId": "line6",
+      "lineLogo": {
+        "number": "6",
+        "color": "#ef7e24"
+      }
+    }
+  },
+  {
+    "id": 116,
+    "nameRu": "Калужская",
+    "nameEn": "Kaluzhskaya",
+    "stationId": "line6_19",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 7,
+      "colorName": "ef7e24",
+      "nameRu": "Калужско-Рижская линия",
+      "nameEn": "Kaluzhsko-Rizhskaya",
+      "lineId": "line6",
+      "lineLogo": {
+        "number": "6",
+        "color": "#ef7e24"
+      }
+    }
+  },
+  {
+    "id": 117,
+    "nameRu": "Беляево",
+    "nameEn": "Belyaevo",
+    "stationId": "line6_20",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 7,
+      "colorName": "ef7e24",
+      "nameRu": "Калужско-Рижская линия",
+      "nameEn": "Kaluzhsko-Rizhskaya",
+      "lineId": "line6",
+      "lineLogo": {
+        "number": "6",
+        "color": "#ef7e24"
+      }
+    }
+  },
+  {
+    "id": 118,
+    "nameRu": "Коньково",
+    "nameEn": "Konkovo",
+    "stationId": "line6_21",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 7,
+      "colorName": "ef7e24",
+      "nameRu": "Калужско-Рижская линия",
+      "nameEn": "Kaluzhsko-Rizhskaya",
+      "lineId": "line6",
+      "lineLogo": {
+        "number": "6",
+        "color": "#ef7e24"
+      }
+    }
+  },
+  {
+    "id": 120,
+    "nameRu": "Ясенево",
+    "nameEn": "Yasenevo",
+    "stationId": "line6_23",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 7,
+      "colorName": "ef7e24",
+      "nameRu": "Калужско-Рижская линия",
+      "nameEn": "Kaluzhsko-Rizhskaya",
+      "lineId": "line6",
+      "lineLogo": {
+        "number": "6",
+        "color": "#ef7e24"
+      }
+    }
+  },
+  {
+    "id": 122,
+    "nameRu": "Планерная",
+    "nameEn": "Planernaya",
+    "stationId": "line7_1",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 8,
+      "colorName": "943f90",
+      "nameRu": "Таганско-Краснопресненская линия",
+      "nameEn": "Tagansko-Krasnopresnenskaya",
+      "lineId": "line7",
+      "lineLogo": {
+        "number": "7",
+        "color": "#943f90"
+      }
+    }
+  },
+  {
+    "id": 123,
+    "nameRu": "Сходненская",
+    "nameEn": "Skhodnenskaya",
+    "stationId": "line7_2",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 8,
+      "colorName": "943f90",
+      "nameRu": "Таганско-Краснопресненская линия",
+      "nameEn": "Tagansko-Krasnopresnenskaya",
+      "lineId": "line7",
+      "lineLogo": {
+        "number": "7",
+        "color": "#943f90"
+      }
+    }
+  },
+  {
+    "id": 124,
+    "nameRu": "Тушинская",
+    "nameEn": "Tushinskaya",
+    "stationId": "line7_3",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 8,
+      "colorName": "943f90",
+      "nameRu": "Таганско-Краснопресненская линия",
+      "nameEn": "Tagansko-Krasnopresnenskaya",
+      "lineId": "line7",
+      "lineLogo": {
+        "number": "7",
+        "color": "#943f90"
+      }
+    }
+  },
+  {
+    "id": 126,
+    "nameRu": "Щукинская",
+    "nameEn": "Schukinskaya",
+    "stationId": "line7_5",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 8,
+      "colorName": "943f90",
+      "nameRu": "Таганско-Краснопресненская линия",
+      "nameEn": "Tagansko-Krasnopresnenskaya",
+      "lineId": "line7",
+      "lineLogo": {
+        "number": "7",
+        "color": "#943f90"
+      }
+    }
+  },
+  {
+    "id": 129,
+    "nameRu": "Беговая",
+    "nameEn": "Begovaya",
+    "stationId": "line7_8",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 8,
+      "colorName": "943f90",
+      "nameRu": "Таганско-Краснопресненская линия",
+      "nameEn": "Tagansko-Krasnopresnenskaya",
+      "lineId": "line7",
+      "lineLogo": {
+        "number": "7",
+        "color": "#943f90"
+      }
+    }
+  },
+  {
+    "id": 130,
+    "nameRu": "Улица 1905 года",
+    "nameEn": "Ulitsa 1905 Goda",
+    "stationId": "line7_9",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 8,
+      "colorName": "943f90",
+      "nameRu": "Таганско-Краснопресненская линия",
+      "nameEn": "Tagansko-Krasnopresnenskaya",
+      "lineId": "line7",
+      "lineLogo": {
+        "number": "7",
+        "color": "#943f90"
+      }
+    }
+  },
+  {
+    "id": 131,
+    "nameRu": "Баррикадная",
+    "nameEn": "Barrikadnaya",
+    "stationId": "line7_10",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 8,
+      "colorName": "943f90",
+      "nameRu": "Таганско-Краснопресненская линия",
+      "nameEn": "Tagansko-Krasnopresnenskaya",
+      "lineId": "line7",
+      "lineLogo": {
+        "number": "7",
+        "color": "#943f90"
+      }
+    }
+  },
+  {
+    "id": 132,
+    "nameRu": "Пушкинская",
+    "nameEn": "Pushkinskaya",
+    "stationId": "line7_11",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 8,
+      "colorName": "943f90",
+      "nameRu": "Таганско-Краснопресненская линия",
+      "nameEn": "Tagansko-Krasnopresnenskaya",
+      "lineId": "line7",
+      "lineLogo": {
+        "number": "7",
+        "color": "#943f90"
+      }
+    }
+  },
+  {
+    "id": 134,
+    "nameRu": "Китай-город",
+    "nameEn": "Kitay-Gorod",
+    "stationId": "line7_13",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 8,
+      "colorName": "943f90",
+      "nameRu": "Таганско-Краснопресненская линия",
+      "nameEn": "Tagansko-Krasnopresnenskaya",
+      "lineId": "line7",
+      "lineLogo": {
+        "number": "7",
+        "color": "#943f90"
+      }
+    }
+  },
+  {
+    "id": 135,
+    "nameRu": "Таганская",
+    "nameEn": "Taganskaya",
+    "stationId": "line7_14",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 8,
+      "colorName": "943f90",
+      "nameRu": "Таганско-Краснопресненская линия",
+      "nameEn": "Tagansko-Krasnopresnenskaya",
+      "lineId": "line7",
+      "lineLogo": {
+        "number": "7",
+        "color": "#943f90"
+      }
+    }
+  },
+  {
+    "id": 136,
+    "nameRu": "Пролетарская",
+    "nameEn": "Proletarskaya",
+    "stationId": "line7_15",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 8,
+      "colorName": "943f90",
+      "nameRu": "Таганско-Краснопресненская линия",
+      "nameEn": "Tagansko-Krasnopresnenskaya",
+      "lineId": "line7",
+      "lineLogo": {
+        "number": "7",
+        "color": "#943f90"
+      }
+    }
+  },
+  {
+    "id": 137,
+    "nameRu": "Волгоградский проспект",
+    "nameEn": "Volgogradsky Prospekt",
+    "stationId": "line7_16",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 8,
+      "colorName": "943f90",
+      "nameRu": "Таганско-Краснопресненская линия",
+      "nameEn": "Tagansko-Krasnopresnenskaya",
+      "lineId": "line7",
+      "lineLogo": {
+        "number": "7",
+        "color": "#943f90"
+      }
+    }
+  },
+  {
+    "id": 138,
+    "nameRu": "Текстильщики",
+    "nameEn": "Tekstilschiki",
+    "stationId": "line7_17",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 8,
+      "colorName": "943f90",
+      "nameRu": "Таганско-Краснопресненская линия",
+      "nameEn": "Tagansko-Krasnopresnenskaya",
+      "lineId": "line7",
+      "lineLogo": {
+        "number": "7",
+        "color": "#943f90"
+      }
+    }
+  },
+  {
+    "id": 139,
+    "nameRu": "Кузьминки",
+    "nameEn": "Kuzminki",
+    "stationId": "line7_18",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 8,
+      "colorName": "943f90",
+      "nameRu": "Таганско-Краснопресненская линия",
+      "nameEn": "Tagansko-Krasnopresnenskaya",
+      "lineId": "line7",
+      "lineLogo": {
+        "number": "7",
+        "color": "#943f90"
+      }
+    }
+  },
+  {
+    "id": 140,
+    "nameRu": "Рязанский проспект",
+    "nameEn": "Ryazansky Prospekt",
+    "stationId": "line7_19",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 8,
+      "colorName": "943f90",
+      "nameRu": "Таганско-Краснопресненская линия",
+      "nameEn": "Tagansko-Krasnopresnenskaya",
+      "lineId": "line7",
+      "lineLogo": {
+        "number": "7",
+        "color": "#943f90"
+      }
+    }
+  },
+  {
+    "id": 141,
+    "nameRu": "Выхино",
+    "nameEn": "Vykhino",
+    "stationId": "line7_20",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 8,
+      "colorName": "943f90",
+      "nameRu": "Таганско-Краснопресненская линия",
+      "nameEn": "Tagansko-Krasnopresnenskaya",
+      "lineId": "line7",
+      "lineLogo": {
+        "number": "7",
+        "color": "#943f90"
+      }
+    }
+  },
+  {
+    "id": 146,
+    "nameRu": "Новогиреево",
+    "nameEn": "Novogireevo",
+    "stationId": "line8_2",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 9,
+      "colorName": "FFCD1E",
+      "nameRu": "Калининская линия",
+      "nameEn": "Kalininskaya",
+      "lineId": "line8",
+      "lineLogo": {
+        "number": "8",
+        "color": "#FFCD1E"
+      }
+    }
+  },
+  {
+    "id": 147,
+    "nameRu": "Перово",
+    "nameEn": "Perovo",
+    "stationId": "line8_3",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 9,
+      "colorName": "FFCD1E",
+      "nameRu": "Калининская линия",
+      "nameEn": "Kalininskaya",
+      "lineId": "line8",
+      "lineLogo": {
+        "number": "8",
+        "color": "#FFCD1E"
+      }
+    }
+  },
+  {
+    "id": 148,
+    "nameRu": "Шоссе Энтузиастов",
+    "nameEn": "Shosse Entuziastov",
+    "stationId": "line8_4",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 9,
+      "colorName": "FFCD1E",
+      "nameRu": "Калининская линия",
+      "nameEn": "Kalininskaya",
+      "lineId": "line8",
+      "lineLogo": {
+        "number": "8",
+        "color": "#FFCD1E"
+      }
+    }
+  },
+  {
+    "id": 149,
+    "nameRu": "Авиамоторная",
+    "nameEn": "Aviamotornaya",
+    "stationId": "line8_5",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 9,
+      "colorName": "FFCD1E",
+      "nameRu": "Калининская линия",
+      "nameEn": "Kalininskaya",
+      "lineId": "line8",
+      "lineLogo": {
+        "number": "8",
+        "color": "#FFCD1E"
+      }
+    }
+  },
+  {
+    "id": 150,
+    "nameRu": "Площадь Ильича",
+    "nameEn": "Ploschad Ilyicha",
+    "stationId": "line8_6",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 9,
+      "colorName": "FFCD1E",
+      "nameRu": "Калининская линия",
+      "nameEn": "Kalininskaya",
+      "lineId": "line8",
+      "lineLogo": {
+        "number": "8",
+        "color": "#FFCD1E"
+      }
+    }
+  },
+  {
+    "id": 151,
+    "nameRu": "Марксистская",
+    "nameEn": "Marksistskaya",
+    "stationId": "line8_7",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 9,
+      "colorName": "FFCD1E",
+      "nameRu": "Калининская линия",
+      "nameEn": "Kalininskaya",
+      "lineId": "line8",
+      "lineLogo": {
+        "number": "8",
+        "color": "#FFCD1E"
+      }
+    }
+  },
+  {
+    "id": 152,
+    "nameRu": "Третьяковская",
+    "nameEn": "Tretyakovskaya",
+    "stationId": "line8_8",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 9,
+      "colorName": "FFCD1E",
+      "nameRu": "Калининская линия",
+      "nameEn": "Kalininskaya",
+      "lineId": "line8",
+      "lineLogo": {
+        "number": "8",
+        "color": "#FFCD1E"
+      }
+    }
+  },
+  {
+    "id": 143,
+    "nameRu": "Жулебино",
+    "nameEn": "Zhulebino",
+    "stationId": "line7_22",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 8,
+      "colorName": "943f90",
+      "nameRu": "Таганско-Краснопресненская линия",
+      "nameEn": "Tagansko-Krasnopresnenskaya",
+      "lineId": "line7",
+      "lineLogo": {
+        "number": "7",
+        "color": "#943f90"
+      }
+    }
+  },
+  {
+    "id": 142,
+    "nameRu": "Лермонтовский проспект",
+    "nameEn": "Lermontovsky Prospekt",
+    "stationId": "line7_21",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 8,
+      "colorName": "943f90",
+      "nameRu": "Таганско-Краснопресненская линия",
+      "nameEn": "Tagansko-Krasnopresnenskaya",
+      "lineId": "line7",
+      "lineLogo": {
+        "number": "7",
+        "color": "#943f90"
+      }
+    }
+  },
+  {
+    "id": 125,
+    "nameRu": "Спартак",
+    "nameEn": "Spartak",
+    "stationId": "line7_4",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 8,
+      "colorName": "943f90",
+      "nameRu": "Таганско-Краснопресненская линия",
+      "nameEn": "Tagansko-Krasnopresnenskaya",
+      "lineId": "line7",
+      "lineLogo": {
+        "number": "7",
+        "color": "#943f90"
+      }
+    }
+  },
+  {
+    "id": 128,
+    "nameRu": "Полежаевская",
+    "nameEn": "Polezhaevskaya",
+    "stationId": "line7_7",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 8,
+      "colorName": "943f90",
+      "nameRu": "Таганско-Краснопресненская линия",
+      "nameEn": "Tagansko-Krasnopresnenskaya",
+      "lineId": "line7",
+      "lineLogo": {
+        "number": "7",
+        "color": "#943f90"
+      }
+    }
+  },
+  {
+    "id": 145,
+    "nameRu": "Новокосино",
+    "nameEn": "Novokosino",
+    "stationId": "line8_1",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 9,
+      "colorName": "FFCD1E",
+      "nameRu": "Калининская линия",
+      "nameEn": "Kalininskaya",
+      "lineId": "line8",
+      "lineLogo": {
+        "number": "8",
+        "color": "#FFCD1E"
+      }
+    }
+  },
+  {
+    "id": 157,
+    "nameRu": "Шелепиха",
+    "nameEn": "Shelepikha",
+    "stationId": "line8A_5",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 10,
+      "colorName": "FFCD1E",
+      "nameRu": "Солнцевская линия",
+      "nameEn": "Solntsevskaya",
+      "lineId": "line8A",
+      "lineLogo": {
+        "number": "8A",
+        "color": "#FFCD1E"
+      }
+    }
+  },
+  {
+    "id": 155,
+    "nameRu": "ЦСКА",
+    "nameEn": "CSKA",
+    "stationId": "line8A_3",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 10,
+      "colorName": "FFCD1E",
+      "nameRu": "Солнцевская линия",
+      "nameEn": "Solntsevskaya",
+      "lineId": "line8A",
+      "lineLogo": {
+        "number": "8A",
+        "color": "#FFCD1E"
+      }
+    }
+  },
+  {
+    "id": 156,
+    "nameRu": "Хорошёвская",
+    "nameEn": "Khoroshevskaya",
+    "stationId": "line8A_4",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 10,
+      "colorName": "FFCD1E",
+      "nameRu": "Солнцевская линия",
+      "nameEn": "Solntsevskaya",
+      "lineId": "line8A",
+      "lineLogo": {
+        "number": "8A",
+        "color": "#FFCD1E"
+      }
+    }
+  },
+  {
+    "id": 153,
+    "nameRu": "Савёловская",
+    "nameEn": "Savyolovskaya",
+    "stationId": "line8A_1",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 10,
+      "colorName": "FFCD1E",
+      "nameRu": "Солнцевская линия",
+      "nameEn": "Solntsevskaya",
+      "lineId": "line8A",
+      "lineLogo": {
+        "number": "8A",
+        "color": "#FFCD1E"
+      }
+    }
+  },
+  {
+    "id": 158,
+    "nameRu": "Парк Победы",
+    "nameEn": "Park Pobedy",
+    "stationId": "line8A_6",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 10,
+      "colorName": "FFCD1E",
+      "nameRu": "Солнцевская линия",
+      "nameEn": "Solntsevskaya",
+      "lineId": "line8A",
+      "lineLogo": {
+        "number": "8A",
+        "color": "#FFCD1E"
+      }
+    }
+  },
+  {
+    "id": 159,
+    "nameRu": "Минская",
+    "nameEn": "Minskaya",
+    "stationId": "line8A_7",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 10,
+      "colorName": "FFCD1E",
+      "nameRu": "Солнцевская линия",
+      "nameEn": "Solntsevskaya",
+      "lineId": "line8A",
+      "lineLogo": {
+        "number": "8A",
+        "color": "#FFCD1E"
+      }
+    }
+  },
+  {
+    "id": 169,
+    "nameRu": "Алтуфьево",
+    "nameEn": "Altufyevo",
+    "stationId": "line9_1",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 11,
+      "colorName": "adacac",
+      "nameRu": "Серпуховско-Тимирязевская линия",
+      "nameEn": "Serpukhovsko-Timiryazevskaya",
+      "lineId": "line9",
+      "lineLogo": {
+        "number": "9",
+        "color": "#adacac"
+      }
+    }
+  },
+  {
+    "id": 170,
+    "nameRu": "Бибирево",
+    "nameEn": "Bibirevo",
+    "stationId": "line9_2",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 11,
+      "colorName": "adacac",
+      "nameRu": "Серпуховско-Тимирязевская линия",
+      "nameEn": "Serpukhovsko-Timiryazevskaya",
+      "lineId": "line9",
+      "lineLogo": {
+        "number": "9",
+        "color": "#adacac"
+      }
+    }
+  },
+  {
+    "id": 171,
+    "nameRu": "Отрадное",
+    "nameEn": "Otradnoe",
+    "stationId": "line9_3",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 11,
+      "colorName": "adacac",
+      "nameRu": "Серпуховско-Тимирязевская линия",
+      "nameEn": "Serpukhovsko-Timiryazevskaya",
+      "lineId": "line9",
+      "lineLogo": {
+        "number": "9",
+        "color": "#adacac"
+      }
+    }
+  },
+  {
+    "id": 172,
+    "nameRu": "Владыкино",
+    "nameEn": "Vladykino",
+    "stationId": "line9_4",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 11,
+      "colorName": "adacac",
+      "nameRu": "Серпуховско-Тимирязевская линия",
+      "nameEn": "Serpukhovsko-Timiryazevskaya",
+      "lineId": "line9",
+      "lineLogo": {
+        "number": "9",
+        "color": "#adacac"
+      }
+    }
+  },
+  {
+    "id": 173,
+    "nameRu": "Петровско-Разумовская",
+    "nameEn": "Petrovsko-Razumovskaya",
+    "stationId": "line9_5",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 11,
+      "colorName": "adacac",
+      "nameRu": "Серпуховско-Тимирязевская линия",
+      "nameEn": "Serpukhovsko-Timiryazevskaya",
+      "lineId": "line9",
+      "lineLogo": {
+        "number": "9",
+        "color": "#adacac"
+      }
+    }
+  },
+  {
+    "id": 174,
+    "nameRu": "Тимирязевская",
+    "nameEn": "Timiryazevskaya",
+    "stationId": "line9_6",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 11,
+      "colorName": "adacac",
+      "nameRu": "Серпуховско-Тимирязевская линия",
+      "nameEn": "Serpukhovsko-Timiryazevskaya",
+      "lineId": "line9",
+      "lineLogo": {
+        "number": "9",
+        "color": "#adacac"
+      }
+    }
+  },
+  {
+    "id": 175,
+    "nameRu": "Дмитровская",
+    "nameEn": "Dmitrovskaya",
+    "stationId": "line9_7",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 11,
+      "colorName": "adacac",
+      "nameRu": "Серпуховско-Тимирязевская линия",
+      "nameEn": "Serpukhovsko-Timiryazevskaya",
+      "lineId": "line9",
+      "lineLogo": {
+        "number": "9",
+        "color": "#adacac"
+      }
+    }
+  },
+  {
+    "id": 176,
+    "nameRu": "Савёловская",
+    "nameEn": "Savyolovskaya",
+    "stationId": "line9_8",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 11,
+      "colorName": "adacac",
+      "nameRu": "Серпуховско-Тимирязевская линия",
+      "nameEn": "Serpukhovsko-Timiryazevskaya",
+      "lineId": "line9",
+      "lineLogo": {
+        "number": "9",
+        "color": "#adacac"
+      }
+    }
+  },
+  {
+    "id": 177,
+    "nameRu": "Менделеевская",
+    "nameEn": "Mendeleevskaya",
+    "stationId": "line9_9",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 11,
+      "colorName": "adacac",
+      "nameRu": "Серпуховско-Тимирязевская линия",
+      "nameEn": "Serpukhovsko-Timiryazevskaya",
+      "lineId": "line9",
+      "lineLogo": {
+        "number": "9",
+        "color": "#adacac"
+      }
+    }
+  },
+  {
+    "id": 178,
+    "nameRu": "Цветной бульвар",
+    "nameEn": "Tsvetnoy Bulvar",
+    "stationId": "line9_10",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 11,
+      "colorName": "adacac",
+      "nameRu": "Серпуховско-Тимирязевская линия",
+      "nameEn": "Serpukhovsko-Timiryazevskaya",
+      "lineId": "line9",
+      "lineLogo": {
+        "number": "9",
+        "color": "#adacac"
+      }
+    }
+  },
+  {
+    "id": 179,
+    "nameRu": "Чеховская",
+    "nameEn": "Chekhovskaya",
+    "stationId": "line9_11",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 11,
+      "colorName": "adacac",
+      "nameRu": "Серпуховско-Тимирязевская линия",
+      "nameEn": "Serpukhovsko-Timiryazevskaya",
+      "lineId": "line9",
+      "lineLogo": {
+        "number": "9",
+        "color": "#adacac"
+      }
+    }
+  },
+  {
+    "id": 180,
+    "nameRu": "Боровицкая",
+    "nameEn": "Borovitskaya",
+    "stationId": "line9_12",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 11,
+      "colorName": "adacac",
+      "nameRu": "Серпуховско-Тимирязевская линия",
+      "nameEn": "Serpukhovsko-Timiryazevskaya",
+      "lineId": "line9",
+      "lineLogo": {
+        "number": "9",
+        "color": "#adacac"
+      }
+    }
+  },
+  {
+    "id": 181,
+    "nameRu": "Полянка",
+    "nameEn": "Polyanka",
+    "stationId": "line9_13",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 11,
+      "colorName": "adacac",
+      "nameRu": "Серпуховско-Тимирязевская линия",
+      "nameEn": "Serpukhovsko-Timiryazevskaya",
+      "lineId": "line9",
+      "lineLogo": {
+        "number": "9",
+        "color": "#adacac"
+      }
+    }
+  },
+  {
+    "id": 182,
+    "nameRu": "Серпуховская",
+    "nameEn": "Serpukhovskaya",
+    "stationId": "line9_14",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 11,
+      "colorName": "adacac",
+      "nameRu": "Серпуховско-Тимирязевская линия",
+      "nameEn": "Serpukhovsko-Timiryazevskaya",
+      "lineId": "line9",
+      "lineLogo": {
+        "number": "9",
+        "color": "#adacac"
+      }
+    }
+  },
+  {
+    "id": 183,
+    "nameRu": "Тульская",
+    "nameEn": "Tulskaya",
+    "stationId": "line9_15",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 11,
+      "colorName": "adacac",
+      "nameRu": "Серпуховско-Тимирязевская линия",
+      "nameEn": "Serpukhovsko-Timiryazevskaya",
+      "lineId": "line9",
+      "lineLogo": {
+        "number": "9",
+        "color": "#adacac"
+      }
+    }
+  },
+  {
+    "id": 184,
+    "nameRu": "Нагатинская",
+    "nameEn": "Nagatinskaya",
+    "stationId": "line9_16",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 11,
+      "colorName": "adacac",
+      "nameRu": "Серпуховско-Тимирязевская линия",
+      "nameEn": "Serpukhovsko-Timiryazevskaya",
+      "lineId": "line9",
+      "lineLogo": {
+        "number": "9",
+        "color": "#adacac"
+      }
+    }
+  },
+  {
+    "id": 185,
+    "nameRu": "Нагорная",
+    "nameEn": "Nagornaya",
+    "stationId": "line9_17",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 11,
+      "colorName": "adacac",
+      "nameRu": "Серпуховско-Тимирязевская линия",
+      "nameEn": "Serpukhovsko-Timiryazevskaya",
+      "lineId": "line9",
+      "lineLogo": {
+        "number": "9",
+        "color": "#adacac"
+      }
+    }
+  },
+  {
+    "id": 127,
+    "nameRu": "Октябрьское поле",
+    "nameEn": "Oktyabr'skoe pole",
+    "stationId": "line7_6",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 8,
+      "colorName": "943f90",
+      "nameRu": "Таганско-Краснопресненская линия",
+      "nameEn": "Tagansko-Krasnopresnenskaya",
+      "lineId": "line7",
+      "lineLogo": {
+        "number": "7",
+        "color": "#943f90"
+      }
+    }
+  },
+  {
+    "id": 119,
+    "nameRu": "Тёплый стан",
+    "nameEn": "Tyoplyj stan",
+    "stationId": "line6_22",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 7,
+      "colorName": "ef7e24",
+      "nameRu": "Калужско-Рижская линия",
+      "nameEn": "Kaluzhsko-Rizhskaya",
+      "lineId": "line6",
+      "lineLogo": {
+        "number": "6",
+        "color": "#ef7e24"
+      }
+    }
+  },
+  {
+    "id": 186,
+    "nameRu": "Нахимовский проспект",
+    "nameEn": "Nakhimovsky Prospekt",
+    "stationId": "line9_18",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 11,
+      "colorName": "adacac",
+      "nameRu": "Серпуховско-Тимирязевская линия",
+      "nameEn": "Serpukhovsko-Timiryazevskaya",
+      "lineId": "line9",
+      "lineLogo": {
+        "number": "9",
+        "color": "#adacac"
+      }
+    }
+  },
+  {
+    "id": 187,
+    "nameRu": "Севастопольская",
+    "nameEn": "Sevastopolskaya",
+    "stationId": "line9_19",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 11,
+      "colorName": "adacac",
+      "nameRu": "Серпуховско-Тимирязевская линия",
+      "nameEn": "Serpukhovsko-Timiryazevskaya",
+      "lineId": "line9",
+      "lineLogo": {
+        "number": "9",
+        "color": "#adacac"
+      }
+    }
+  },
+  {
+    "id": 188,
+    "nameRu": "Чертановская",
+    "nameEn": "Chertanovskaya",
+    "stationId": "line9_20",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 11,
+      "colorName": "adacac",
+      "nameRu": "Серпуховско-Тимирязевская линия",
+      "nameEn": "Serpukhovsko-Timiryazevskaya",
+      "lineId": "line9",
+      "lineLogo": {
+        "number": "9",
+        "color": "#adacac"
+      }
+    }
+  },
+  {
+    "id": 189,
+    "nameRu": "Южная",
+    "nameEn": "Yuzhnaya",
+    "stationId": "line9_21",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 11,
+      "colorName": "adacac",
+      "nameRu": "Серпуховско-Тимирязевская линия",
+      "nameEn": "Serpukhovsko-Timiryazevskaya",
+      "lineId": "line9",
+      "lineLogo": {
+        "number": "9",
+        "color": "#adacac"
+      }
+    }
+  },
+  {
+    "id": 190,
+    "nameRu": "Пражская",
+    "nameEn": "Prazhskaya",
+    "stationId": "line9_22",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 11,
+      "colorName": "adacac",
+      "nameRu": "Серпуховско-Тимирязевская линия",
+      "nameEn": "Serpukhovsko-Timiryazevskaya",
+      "lineId": "line9",
+      "lineLogo": {
+        "number": "9",
+        "color": "#adacac"
+      }
+    }
+  },
+  {
+    "id": 192,
+    "nameRu": "Аннино",
+    "nameEn": "Annino",
+    "stationId": "line9_24",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 11,
+      "colorName": "adacac",
+      "nameRu": "Серпуховско-Тимирязевская линия",
+      "nameEn": "Serpukhovsko-Timiryazevskaya",
+      "lineId": "line9",
+      "lineLogo": {
+        "number": "9",
+        "color": "#adacac"
+      }
+    }
+  },
+  {
+    "id": 193,
+    "nameRu": "Бульвар Дмитрия Донского",
+    "nameEn": "Bulvar Dmitriya Donskogo",
+    "stationId": "line9_25",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 11,
+      "colorName": "adacac",
+      "nameRu": "Серпуховско-Тимирязевская линия",
+      "nameEn": "Serpukhovsko-Timiryazevskaya",
+      "lineId": "line9",
+      "lineLogo": {
+        "number": "9",
+        "color": "#adacac"
+      }
+    }
+  },
+  {
+    "id": 197,
+    "nameRu": "Петровско-Разумовская",
+    "nameEn": "Petrovsko-Razumovskaya",
+    "stationId": "line10_4",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 12,
+      "colorName": "BED12E",
+      "nameRu": "Люблинско-Дмитровская линия",
+      "nameEn": "Lyublinsko-Dmitrovskaya",
+      "lineId": "line10",
+      "lineLogo": {
+        "number": "10",
+        "color": "#BED12E"
+      }
+    }
+  },
+  {
+    "id": 202,
+    "nameRu": "Трубная",
+    "nameEn": "Trubnaya",
+    "stationId": "line10_9",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 12,
+      "colorName": "BED12E",
+      "nameRu": "Люблинско-Дмитровская линия",
+      "nameEn": "Lyublinsko-Dmitrovskaya",
+      "lineId": "line10",
+      "lineLogo": {
+        "number": "10",
+        "color": "#BED12E"
+      }
+    }
+  },
+  {
+    "id": 203,
+    "nameRu": "Сретенский бульвар",
+    "nameEn": "Sretensky Bulvar",
+    "stationId": "line10_10",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 12,
+      "colorName": "BED12E",
+      "nameRu": "Люблинско-Дмитровская линия",
+      "nameEn": "Lyublinsko-Dmitrovskaya",
+      "lineId": "line10",
+      "lineLogo": {
+        "number": "10",
+        "color": "#BED12E"
+      }
+    }
+  },
+  {
+    "id": 204,
+    "nameRu": "Чкаловская",
+    "nameEn": "Chkalovskaya",
+    "stationId": "line10_11",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 12,
+      "colorName": "BED12E",
+      "nameRu": "Люблинско-Дмитровская линия",
+      "nameEn": "Lyublinsko-Dmitrovskaya",
+      "lineId": "line10",
+      "lineLogo": {
+        "number": "10",
+        "color": "#BED12E"
+      }
+    }
+  },
+  {
+    "id": 205,
+    "nameRu": "Римская",
+    "nameEn": "Rimskaya",
+    "stationId": "line10_12",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 12,
+      "colorName": "BED12E",
+      "nameRu": "Люблинско-Дмитровская линия",
+      "nameEn": "Lyublinsko-Dmitrovskaya",
+      "lineId": "line10",
+      "lineLogo": {
+        "number": "10",
+        "color": "#BED12E"
+      }
+    }
+  },
+  {
+    "id": 207,
+    "nameRu": "Дубровка",
+    "nameEn": "Dubrovka",
+    "stationId": "line10_14",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 12,
+      "colorName": "BED12E",
+      "nameRu": "Люблинско-Дмитровская линия",
+      "nameEn": "Lyublinsko-Dmitrovskaya",
+      "lineId": "line10",
+      "lineLogo": {
+        "number": "10",
+        "color": "#BED12E"
+      }
+    }
+  },
+  {
+    "id": 208,
+    "nameRu": "Кожуховская",
+    "nameEn": "Kozhukhovskaya",
+    "stationId": "line10_15",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 12,
+      "colorName": "BED12E",
+      "nameRu": "Люблинско-Дмитровская линия",
+      "nameEn": "Lyublinsko-Dmitrovskaya",
+      "lineId": "line10",
+      "lineLogo": {
+        "number": "10",
+        "color": "#BED12E"
+      }
+    }
+  },
+  {
+    "id": 209,
+    "nameRu": "Печатники",
+    "nameEn": "Pechatniki",
+    "stationId": "line10_16",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 12,
+      "colorName": "BED12E",
+      "nameRu": "Люблинско-Дмитровская линия",
+      "nameEn": "Lyublinsko-Dmitrovskaya",
+      "lineId": "line10",
+      "lineLogo": {
+        "number": "10",
+        "color": "#BED12E"
+      }
+    }
+  },
+  {
+    "id": 210,
+    "nameRu": "Волжская",
+    "nameEn": "Volzhskaya",
+    "stationId": "line10_17",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 12,
+      "colorName": "BED12E",
+      "nameRu": "Люблинско-Дмитровская линия",
+      "nameEn": "Lyublinsko-Dmitrovskaya",
+      "lineId": "line10",
+      "lineLogo": {
+        "number": "10",
+        "color": "#BED12E"
+      }
+    }
+  },
+  {
+    "id": 211,
+    "nameRu": "Люблино",
+    "nameEn": "Lyublino",
+    "stationId": "line10_18",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 12,
+      "colorName": "BED12E",
+      "nameRu": "Люблинско-Дмитровская линия",
+      "nameEn": "Lyublinsko-Dmitrovskaya",
+      "lineId": "line10",
+      "lineLogo": {
+        "number": "10",
+        "color": "#BED12E"
+      }
+    }
+  },
+  {
+    "id": 212,
+    "nameRu": "Братиславская",
+    "nameEn": "Bratislavskaya",
+    "stationId": "line10_19",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 12,
+      "colorName": "BED12E",
+      "nameRu": "Люблинско-Дмитровская линия",
+      "nameEn": "Lyublinsko-Dmitrovskaya",
+      "lineId": "line10",
+      "lineLogo": {
+        "number": "10",
+        "color": "#BED12E"
+      }
+    }
+  },
+  {
+    "id": 213,
+    "nameRu": "Марьино",
+    "nameEn": "Maryino",
+    "stationId": "line10_20",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 12,
+      "colorName": "BED12E",
+      "nameRu": "Люблинско-Дмитровская линия",
+      "nameEn": "Lyublinsko-Dmitrovskaya",
+      "lineId": "line10",
+      "lineLogo": {
+        "number": "10",
+        "color": "#BED12E"
+      }
+    }
+  },
+  {
+    "id": 217,
+    "nameRu": "Савёловская",
+    "nameEn": "Savyolovskaya",
+    "stationId": "line11_1",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 13,
+      "colorName": "89CDCF",
+      "nameRu": "Большая Кольцевая линия",
+      "nameEn": "Big Circle Line",
+      "lineId": "line11",
+      "lineLogo": {
+        "number": "11",
+        "color": "#89CDCF"
+      }
+    }
+  },
+  {
+    "id": 218,
+    "nameRu": "Петровский парк",
+    "nameEn": "Petrovsky Park",
+    "stationId": "line11_2",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 13,
+      "colorName": "89CDCF",
+      "nameRu": "Большая Кольцевая линия",
+      "nameEn": "Big Circle Line",
+      "lineId": "line11",
+      "lineLogo": {
+        "number": "11",
+        "color": "#89CDCF"
+      }
+    }
+  },
+  {
+    "id": 219,
+    "nameRu": "ЦСКА",
+    "nameEn": "CSKA",
+    "stationId": "line11_3",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 13,
+      "colorName": "89CDCF",
+      "nameRu": "Большая Кольцевая линия",
+      "nameEn": "Big Circle Line",
+      "lineId": "line11",
+      "lineLogo": {
+        "number": "11",
+        "color": "#89CDCF"
+      }
+    }
+  },
+  {
+    "id": 220,
+    "nameRu": "Хорошёвская",
+    "nameEn": "Khoroshevskaya",
+    "stationId": "line11_4",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 13,
+      "colorName": "89CDCF",
+      "nameRu": "Большая Кольцевая линия",
+      "nameEn": "Big Circle Line",
+      "lineId": "line11",
+      "lineLogo": {
+        "number": "11",
+        "color": "#89CDCF"
+      }
+    }
+  },
+  {
+    "id": 226,
+    "nameRu": "Кунцевская",
+    "nameEn": "Kuntsevskaya",
+    "stationId": "line11_10",
+    "status": false,
+    "hasSpecs": false,
+    "line": {
+      "id": 13,
+      "colorName": "89CDCF",
+      "nameRu": "Большая Кольцевая линия",
+      "nameEn": "Big Circle Line",
+      "lineId": "line11",
+      "lineLogo": {
+        "number": "11",
+        "color": "#89CDCF"
+      }
+    }
+  },
+  {
+    "id": 229,
+    "nameRu": "Мичуринский проспект",
+    "nameEn": "Michurinsky Prospekt",
+    "stationId": "line11_13",
+    "status": false,
+    "hasSpecs": false,
+    "line": {
+      "id": 13,
+      "colorName": "89CDCF",
+      "nameRu": "Большая Кольцевая линия",
+      "nameEn": "Big Circle Line",
+      "lineId": "line11",
+      "lineLogo": {
+        "number": "11",
+        "color": "#89CDCF"
+      }
+    }
+  },
+  {
+    "id": 230,
+    "nameRu": "Проспект Вернадского",
+    "nameEn": "Prospekt Vernadskogo",
+    "stationId": "line11_14",
+    "status": false,
+    "hasSpecs": false,
+    "line": {
+      "id": 13,
+      "colorName": "89CDCF",
+      "nameRu": "Большая Кольцевая линия",
+      "nameEn": "Big Circle Line",
+      "lineId": "line11",
+      "lineLogo": {
+        "number": "11",
+        "color": "#89CDCF"
+      }
+    }
+  },
+  {
+    "id": 232,
+    "nameRu": "Калужская",
+    "nameEn": "Kaluzhskaya",
+    "stationId": "line11_16",
+    "status": false,
+    "hasSpecs": false,
+    "line": {
+      "id": 13,
+      "colorName": "89CDCF",
+      "nameRu": "Большая Кольцевая линия",
+      "nameEn": "Big Circle Line",
+      "lineId": "line11",
+      "lineLogo": {
+        "number": "11",
+        "color": "#89CDCF"
+      }
+    }
+  },
+  {
+    "id": 238,
+    "nameRu": "Печатники",
+    "nameEn": "Pechatniki",
+    "stationId": "line11_23",
+    "status": false,
+    "hasSpecs": false,
+    "line": {
+      "id": 13,
+      "colorName": "89CDCF",
+      "nameRu": "Большая Кольцевая линия",
+      "nameEn": "Big Circle Line",
+      "lineId": "line11",
+      "lineLogo": {
+        "number": "11",
+        "color": "#89CDCF"
+      }
+    }
+  },
+  {
+    "id": 239,
+    "nameRu": "Текстильщики",
+    "nameEn": "Tekstilschiki",
+    "stationId": "line11_24",
+    "status": false,
+    "hasSpecs": false,
+    "line": {
+      "id": 13,
+      "colorName": "89CDCF",
+      "nameRu": "Большая Кольцевая линия",
+      "nameEn": "Big Circle Line",
+      "lineId": "line11",
+      "lineLogo": {
+        "number": "11",
+        "color": "#89CDCF"
+      }
+    }
+  },
+  {
+    "id": 240,
+    "nameRu": "Нижегородская",
+    "nameEn": "Nizhegorodskaya",
+    "stationId": "line11_25",
+    "status": false,
+    "hasSpecs": false,
+    "line": {
+      "id": 13,
+      "colorName": "89CDCF",
+      "nameRu": "Большая Кольцевая линия",
+      "nameEn": "Big Circle Line",
+      "lineId": "line11",
+      "lineLogo": {
+        "number": "11",
+        "color": "#89CDCF"
+      }
+    }
+  },
+  {
+    "id": 241,
+    "nameRu": "Авиамоторная",
+    "nameEn": "Aviamotornaya",
+    "stationId": "line11_26",
+    "status": false,
+    "hasSpecs": false,
+    "line": {
+      "id": 13,
+      "colorName": "89CDCF",
+      "nameRu": "Большая Кольцевая линия",
+      "nameEn": "Big Circle Line",
+      "lineId": "line11",
+      "lineLogo": {
+        "number": "11",
+        "color": "#89CDCF"
+      }
+    }
+  },
+  {
+    "id": 243,
+    "nameRu": "Электрозаводская",
+    "nameEn": "Elektrozavodskaya",
+    "stationId": "line11_28",
+    "status": false,
+    "hasSpecs": false,
+    "line": {
+      "id": 13,
+      "colorName": "89CDCF",
+      "nameRu": "Большая Кольцевая линия",
+      "nameEn": "Big Circle Line",
+      "lineId": "line11",
+      "lineLogo": {
+        "number": "11",
+        "color": "#89CDCF"
+      }
+    }
+  },
+  {
+    "id": 244,
+    "nameRu": "Сокольники",
+    "nameEn": "Sokolniki",
+    "stationId": "line11_29",
+    "status": false,
+    "hasSpecs": false,
+    "line": {
+      "id": 13,
+      "colorName": "89CDCF",
+      "nameRu": "Большая Кольцевая линия",
+      "nameEn": "Big Circle Line",
+      "lineId": "line11",
+      "lineLogo": {
+        "number": "11",
+        "color": "#89CDCF"
+      }
+    }
+  },
+  {
+    "id": 245,
+    "nameRu": "Рижская",
+    "nameEn": "Rizhskaya",
+    "stationId": "line11_30",
+    "status": false,
+    "hasSpecs": false,
+    "line": {
+      "id": 13,
+      "colorName": "89CDCF",
+      "nameRu": "Большая Кольцевая линия",
+      "nameEn": "Big Circle Line",
+      "lineId": "line11",
+      "lineLogo": {
+        "number": "11",
+        "color": "#89CDCF"
+      }
+    }
+  },
+  {
+    "id": 246,
+    "nameRu": "Марьина Роща",
+    "nameEn": "Maryina Roscha",
+    "stationId": "line11_31",
+    "status": false,
+    "hasSpecs": false,
+    "line": {
+      "id": 13,
+      "colorName": "89CDCF",
+      "nameRu": "Большая Кольцевая линия",
+      "nameEn": "Big Circle Line",
+      "lineId": "line11",
+      "lineLogo": {
+        "number": "11",
+        "color": "#89CDCF"
+      }
+    }
+  },
+  {
+    "id": 161,
+    "nameRu": "Раменки",
+    "nameEn": "Ramenki",
+    "stationId": "line8A_9",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 10,
+      "colorName": "FFCD1E",
+      "nameRu": "Солнцевская линия",
+      "nameEn": "Solntsevskaya",
+      "lineId": "line8A",
+      "lineLogo": {
+        "number": "8A",
+        "color": "#FFCD1E"
+      }
+    }
+  },
+  {
+    "id": 162,
+    "nameRu": "Мичуринский проспект",
+    "nameEn": "Michurinsky Prospekt",
+    "stationId": "line8A_10",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 10,
+      "colorName": "FFCD1E",
+      "nameRu": "Солнцевская линия",
+      "nameEn": "Solntsevskaya",
+      "lineId": "line8A",
+      "lineLogo": {
+        "number": "8A",
+        "color": "#FFCD1E"
+      }
+    }
+  },
+  {
+    "id": 163,
+    "nameRu": "Озёрная",
+    "nameEn": "Ozernaya",
+    "stationId": "line8A_11",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 10,
+      "colorName": "FFCD1E",
+      "nameRu": "Солнцевская линия",
+      "nameEn": "Solntsevskaya",
+      "lineId": "line8A",
+      "lineLogo": {
+        "number": "8A",
+        "color": "#FFCD1E"
+      }
+    }
+  },
+  {
+    "id": 168,
+    "nameRu": "Рассказовка",
+    "nameEn": "Rasskazovka",
+    "stationId": "line8A_16",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 10,
+      "colorName": "FFCD1E",
+      "nameRu": "Солнцевская линия",
+      "nameEn": "Solntsevskaya",
+      "lineId": "line8A",
+      "lineLogo": {
+        "number": "8A",
+        "color": "#FFCD1E"
+      }
+    }
+  },
+  {
+    "id": 164,
+    "nameRu": "Говорово",
+    "nameEn": "Govorovo",
+    "stationId": "line8A_12",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 10,
+      "colorName": "FFCD1E",
+      "nameRu": "Солнцевская линия",
+      "nameEn": "Solntsevskaya",
+      "lineId": "line8A",
+      "lineLogo": {
+        "number": "8A",
+        "color": "#FFCD1E"
+      }
+    }
+  },
+  {
+    "id": 167,
+    "nameRu": "Новопеределкино",
+    "nameEn": "Novoperedelkino",
+    "stationId": "line8A_15",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 10,
+      "colorName": "FFCD1E",
+      "nameRu": "Солнцевская линия",
+      "nameEn": "Solntsevskaya",
+      "lineId": "line8A",
+      "lineLogo": {
+        "number": "8A",
+        "color": "#FFCD1E"
+      }
+    }
+  },
+  {
+    "id": 166,
+    "nameRu": "Боровское шоссе",
+    "nameEn": "Borovskoe Shosse",
+    "stationId": "line8A_14",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 10,
+      "colorName": "FFCD1E",
+      "nameRu": "Солнцевская линия",
+      "nameEn": "Solntsevskaya",
+      "lineId": "line8A",
+      "lineLogo": {
+        "number": "8A",
+        "color": "#FFCD1E"
+      }
+    }
+  },
+  {
+    "id": 165,
+    "nameRu": "Солнцево",
+    "nameEn": "Solntsevo",
+    "stationId": "line8A_13",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 10,
+      "colorName": "FFCD1E",
+      "nameRu": "Солнцевская линия",
+      "nameEn": "Solntsevskaya",
+      "lineId": "line8A",
+      "lineLogo": {
+        "number": "8A",
+        "color": "#FFCD1E"
+      }
+    }
+  },
+  {
+    "id": 216,
+    "nameRu": "Зябликово",
+    "nameEn": "Zyablikovo",
+    "stationId": "line10_23",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 12,
+      "colorName": "BED12E",
+      "nameRu": "Люблинско-Дмитровская линия",
+      "nameEn": "Lyublinsko-Dmitrovskaya",
+      "lineId": "line10",
+      "lineLogo": {
+        "number": "10",
+        "color": "#BED12E"
+      }
+    }
+  },
+  {
+    "id": 215,
+    "nameRu": "Шипиловская",
+    "nameEn": "Shipilovskaya",
+    "stationId": "line10_22",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 12,
+      "colorName": "BED12E",
+      "nameRu": "Люблинско-Дмитровская линия",
+      "nameEn": "Lyublinsko-Dmitrovskaya",
+      "lineId": "line10",
+      "lineLogo": {
+        "number": "10",
+        "color": "#BED12E"
+      }
+    }
+  },
+  {
+    "id": 214,
+    "nameRu": "Борисово",
+    "nameEn": "Borisovo",
+    "stationId": "line10_21",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 12,
+      "colorName": "BED12E",
+      "nameRu": "Люблинско-Дмитровская линия",
+      "nameEn": "Lyublinsko-Dmitrovskaya",
+      "lineId": "line10",
+      "lineLogo": {
+        "number": "10",
+        "color": "#BED12E"
+      }
+    }
+  },
+  {
+    "id": 247,
+    "nameRu": "Каширская",
+    "nameEn": "Kashirskaya",
+    "stationId": "line11A_1",
+    "status": false,
+    "hasSpecs": false,
+    "line": {
+      "id": 14,
+      "colorName": "89CDCF",
+      "nameRu": "Каховская линия",
+      "nameEn": "Kakhovskaya",
+      "lineId": "line11A",
+      "lineLogo": {
+        "number": "11A",
+        "color": "#89CDCF"
+      }
+    }
+  },
+  {
+    "id": 199,
+    "nameRu": "Бутырская",
+    "nameEn": "Butyrskaya",
+    "stationId": "line10_6",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 12,
+      "colorName": "BED12E",
+      "nameRu": "Люблинско-Дмитровская линия",
+      "nameEn": "Lyublinsko-Dmitrovskaya",
+      "lineId": "line10",
+      "lineLogo": {
+        "number": "10",
+        "color": "#BED12E"
+      }
+    }
+  },
+  {
+    "id": 198,
+    "nameRu": "Фонвизинская",
+    "nameEn": "Fonvizinskaya",
+    "stationId": "line10_5",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 12,
+      "colorName": "BED12E",
+      "nameRu": "Люблинско-Дмитровская линия",
+      "nameEn": "Lyublinsko-Dmitrovskaya",
+      "lineId": "line10",
+      "lineLogo": {
+        "number": "10",
+        "color": "#BED12E"
+      }
+    }
+  },
+  {
+    "id": 194,
+    "nameRu": "Селигерская",
+    "nameEn": "Seligerskaya",
+    "stationId": "line10_1",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 12,
+      "colorName": "BED12E",
+      "nameRu": "Люблинско-Дмитровская линия",
+      "nameEn": "Lyublinsko-Dmitrovskaya",
+      "lineId": "line10",
+      "lineLogo": {
+        "number": "10",
+        "color": "#BED12E"
+      }
+    }
+  },
+  {
+    "id": 195,
+    "nameRu": "Верхние Лихоборы",
+    "nameEn": "Verkhnie Likhobory",
+    "stationId": "line10_2",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 12,
+      "colorName": "BED12E",
+      "nameRu": "Люблинско-Дмитровская линия",
+      "nameEn": "Lyublinsko-Dmitrovskaya",
+      "lineId": "line10",
+      "lineLogo": {
+        "number": "10",
+        "color": "#BED12E"
+      }
+    }
+  },
+  {
+    "id": 196,
+    "nameRu": "Окружная",
+    "nameEn": "Okruzhnaya",
+    "stationId": "line10_3",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 12,
+      "colorName": "BED12E",
+      "nameRu": "Люблинско-Дмитровская линия",
+      "nameEn": "Lyublinsko-Dmitrovskaya",
+      "lineId": "line10",
+      "lineLogo": {
+        "number": "10",
+        "color": "#BED12E"
+      }
+    }
+  },
+  {
+    "id": 251,
+    "nameRu": "Улица Старокачаловская",
+    "nameEn": "Ulitsa Starokachalovskaya",
+    "stationId": "line12_3",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 15,
+      "colorName": "BAC8E8",
+      "nameRu": "Бутовская линия",
+      "nameEn": "Butovskaya",
+      "lineId": "line12",
+      "lineLogo": {
+        "number": "12",
+        "color": "#BAC8E8"
+      }
+    }
+  },
+  {
+    "id": 268,
+    "nameRu": "Нижегородская",
+    "nameEn": "Nizhegorodskaya",
+    "stationId": "line14_7",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 17,
+      "colorName": "ffcec6",
+      "nameRu": "МЦК",
+      "nameEn": "Moscow Central Circle",
+      "lineId": "line14",
+      "lineLogo": {
+        "number": "14",
+        "color": "#ffcec6"
+      }
+    }
+  },
+  {
+    "id": 274,
+    "nameRu": "Верхние Котлы",
+    "nameEn": "Verkhnie Kotly",
+    "stationId": "line14_13",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 17,
+      "colorName": "ffcec6",
+      "nameRu": "МЦК",
+      "nameEn": "Moscow Central Circle",
+      "lineId": "line14",
+      "lineLogo": {
+        "number": "14",
+        "color": "#ffcec6"
+      }
+    }
+  },
+  {
+    "id": 275,
+    "nameRu": "Крымская",
+    "nameEn": "Krymskaya",
+    "stationId": "line14_14",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 17,
+      "colorName": "ffcec6",
+      "nameRu": "МЦК",
+      "nameEn": "Moscow Central Circle",
+      "lineId": "line14",
+      "lineLogo": {
+        "number": "14",
+        "color": "#ffcec6"
+      }
+    }
+  },
+  {
+    "id": 276,
+    "nameRu": "Площадь Гагарина",
+    "nameEn": "Ploschad Gagarina",
+    "stationId": "line14_15",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 17,
+      "colorName": "ffcec6",
+      "nameRu": "МЦК",
+      "nameEn": "Moscow Central Circle",
+      "lineId": "line14",
+      "lineLogo": {
+        "number": "14",
+        "color": "#ffcec6"
+      }
+    }
+  },
+  {
+    "id": 242,
+    "nameRu": "Лефортово",
+    "nameEn": "Lefortovo",
+    "stationId": "line11_27",
+    "status": false,
+    "hasSpecs": false,
+    "line": {
+      "id": 13,
+      "colorName": "89CDCF",
+      "nameRu": "Большая Кольцевая линия",
+      "nameEn": "Big Circle Line",
+      "lineId": "line11",
+      "lineLogo": {
+        "number": "11",
+        "color": "#89CDCF"
+      }
+    }
+  },
+  {
+    "id": 223,
+    "nameRu": "Мнёвники",
+    "nameEn": "Mnyovniki",
+    "stationId": "line11_7",
+    "status": false,
+    "hasSpecs": false,
+    "line": {
+      "id": 13,
+      "colorName": "89CDCF",
+      "nameRu": "Большая Кольцевая линия",
+      "nameEn": "Big Circle Line",
+      "lineId": "line11",
+      "lineLogo": {
+        "number": "11",
+        "color": "#89CDCF"
+      }
+    }
+  },
+  {
+    "id": 200,
+    "nameRu": "Марьина роща",
+    "nameEn": "Mar'ina roshcha",
+    "stationId": "line10_7",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 12,
+      "colorName": "BED12E",
+      "nameRu": "Люблинско-Дмитровская линия",
+      "nameEn": "Lyublinsko-Dmitrovskaya",
+      "lineId": "line10",
+      "lineLogo": {
+        "number": "10",
+        "color": "#BED12E"
+      }
+    }
+  },
+  {
+    "id": 237,
+    "nameRu": "Нагатинский затон",
+    "nameEn": "Nagatinskij zaton",
+    "stationId": "line11_22",
+    "status": false,
+    "hasSpecs": false,
+    "line": {
+      "id": 13,
+      "colorName": "89CDCF",
+      "nameRu": "Большая Кольцевая линия",
+      "nameEn": "Big Circle Line",
+      "lineId": "line11",
+      "lineLogo": {
+        "number": "11",
+        "color": "#89CDCF"
+      }
+    }
+  },
+  {
+    "id": 225,
+    "nameRu": "Терехово",
+    "nameEn": "Terehovo",
+    "stationId": "line11_9",
+    "status": false,
+    "hasSpecs": false,
+    "line": {
+      "id": 13,
+      "colorName": "89CDCF",
+      "nameRu": "Большая Кольцевая линия",
+      "nameEn": "Big Circle Line",
+      "lineId": "line11",
+      "lineLogo": {
+        "number": "11",
+        "color": "#89CDCF"
+      }
+    }
+  },
+  {
+    "id": 231,
+    "nameRu": "Улица Новаторов",
+    "nameEn": "Novatorov Street",
+    "stationId": "line11_15",
+    "status": false,
+    "hasSpecs": false,
+    "line": {
+      "id": 13,
+      "colorName": "89CDCF",
+      "nameRu": "Большая Кольцевая линия",
+      "nameEn": "Big Circle Line",
+      "lineId": "line11",
+      "lineLogo": {
+        "number": "11",
+        "color": "#89CDCF"
+      }
+    }
+  },
+  {
+    "id": 191,
+    "nameRu": "Улица академика Янгеля",
+    "nameEn": "Academician Yangel Street",
+    "stationId": "line9_23",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 11,
+      "colorName": "adacac",
+      "nameRu": "Серпуховско-Тимирязевская линия",
+      "nameEn": "Serpukhovsko-Timiryazevskaya",
+      "lineId": "line9",
+      "lineLogo": {
+        "number": "9",
+        "color": "#adacac"
+      }
+    }
+  },
+  {
+    "id": 227,
+    "nameRu": "Давыдково",
+    "nameEn": "Davydkovo",
+    "stationId": "line11_11",
+    "status": false,
+    "hasSpecs": false,
+    "line": {
+      "id": 13,
+      "colorName": "89CDCF",
+      "nameRu": "Большая Кольцевая линия",
+      "nameEn": "Big Circle Line",
+      "lineId": "line11",
+      "lineLogo": {
+        "number": "11",
+        "color": "#89CDCF"
+      }
+    }
+  },
+  {
+    "id": 233,
+    "nameRu": "Зюзино",
+    "nameEn": "Zuzino",
+    "stationId": "line11_17",
+    "status": false,
+    "hasSpecs": false,
+    "line": {
+      "id": 13,
+      "colorName": "89CDCF",
+      "nameRu": "Большая Кольцевая линия",
+      "nameEn": "Big Circle Line",
+      "lineId": "line11",
+      "lineLogo": {
+        "number": "11",
+        "color": "#89CDCF"
+      }
+    }
+  },
+  {
+    "id": 264,
+    "nameRu": "Измайлово",
+    "nameEn": "Izmailovo",
+    "stationId": "line14_3",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 17,
+      "colorName": "ffcec6",
+      "nameRu": "МЦК",
+      "nameEn": "Moscow Central Circle",
+      "lineId": "line14",
+      "lineLogo": {
+        "number": "14",
+        "color": "#ffcec6"
+      }
+    }
+  },
+  {
+    "id": 224,
+    "nameRu": "Карамышево",
+    "nameEn": "Karamyshevo",
+    "stationId": "line11_8",
+    "status": false,
+    "hasSpecs": false,
+    "line": {
+      "id": 13,
+      "colorName": "89CDCF",
+      "nameRu": "Большая Кольцевая линия",
+      "nameEn": "Big Circle Line",
+      "lineId": "line11",
+      "lineLogo": {
+        "number": "11",
+        "color": "#89CDCF"
+      }
+    }
+  },
+  {
+    "id": 228,
+    "nameRu": "Аминьевская",
+    "nameEn": "Aminievskaya",
+    "stationId": "line11_12",
+    "status": false,
+    "hasSpecs": false,
+    "line": {
+      "id": 13,
+      "colorName": "89CDCF",
+      "nameRu": "Большая Кольцевая линия",
+      "nameEn": "Big Circle Line",
+      "lineId": "line11",
+      "lineLogo": {
+        "number": "11",
+        "color": "#89CDCF"
+      }
+    }
+  },
+  {
+    "id": 287,
+    "nameRu": "Лихоборы",
+    "nameEn": "Likhobory",
+    "stationId": "line14_26",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 17,
+      "colorName": "ffcec6",
+      "nameRu": "МЦК",
+      "nameEn": "Moscow Central Circle",
+      "lineId": "line14",
+      "lineLogo": {
+        "number": "14",
+        "color": "#ffcec6"
+      }
+    }
+  },
+  {
+    "id": 314,
+    "nameRu": "Окружная",
+    "nameEn": "Okruzhnaya",
+    "stationId": "lineD1_12",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 19,
+      "colorName": "f7a600",
+      "nameRu": "МЦД-1",
+      "nameEn": "MCD-1",
+      "lineId": "lineD1",
+      "lineLogo": {
+        "number": "D1",
+        "color": "#f7a600"
+      }
+    }
+  },
+  {
+    "id": 315,
+    "nameRu": "Петровско-Разумовская",
+    "nameEn": "Petrovsko-Razumovskaya",
+    "stationId": "lineD1_13",
+    "status": false,
+    "hasSpecs": false,
+    "line": {
+      "id": 19,
+      "colorName": "f7a600",
+      "nameRu": "МЦД-1",
+      "nameEn": "MCD-1",
+      "lineId": "lineD1",
+      "lineLogo": {
+        "number": "D1",
+        "color": "#f7a600"
+      }
+    }
+  },
+  {
+    "id": 316,
+    "nameRu": "Тимирязевская",
+    "nameEn": "Timiryazevskaya",
+    "stationId": "lineD1_14",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 19,
+      "colorName": "f7a600",
+      "nameRu": "МЦД-1",
+      "nameEn": "MCD-1",
+      "lineId": "lineD1",
+      "lineLogo": {
+        "number": "D1",
+        "color": "#f7a600"
+      }
+    }
+  },
+  {
+    "id": 317,
+    "nameRu": "Дмитровская",
+    "nameEn": "Dmitrovskaya",
+    "stationId": "lineD1_15",
+    "status": false,
+    "hasSpecs": false,
+    "line": {
+      "id": 19,
+      "colorName": "f7a600",
+      "nameRu": "МЦД-1",
+      "nameEn": "MCD-1",
+      "lineId": "lineD1",
+      "lineLogo": {
+        "number": "D1",
+        "color": "#f7a600"
+      }
+    }
+  },
+  {
+    "id": 318,
+    "nameRu": "Савёловская",
+    "nameEn": "Savyolovskaya",
+    "stationId": "lineD1_16",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 19,
+      "colorName": "f7a600",
+      "nameRu": "МЦД-1",
+      "nameEn": "MCD-1",
+      "lineId": "lineD1",
+      "lineLogo": {
+        "number": "D1",
+        "color": "#f7a600"
+      }
+    }
+  },
+  {
+    "id": 320,
+    "nameRu": "Беговая",
+    "nameEn": "Begovaya",
+    "stationId": "lineD1_18",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 19,
+      "colorName": "f7a600",
+      "nameRu": "МЦД-1",
+      "nameEn": "MCD-1",
+      "lineId": "lineD1",
+      "lineLogo": {
+        "number": "D1",
+        "color": "#f7a600"
+      }
+    }
+  },
+  {
+    "id": 322,
+    "nameRu": "Фили",
+    "nameEn": "Fili",
+    "stationId": "lineD1_20",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 19,
+      "colorName": "f7a600",
+      "nameRu": "МЦД-1",
+      "nameEn": "MCD-1",
+      "lineId": "lineD1",
+      "lineLogo": {
+        "number": "D1",
+        "color": "#f7a600"
+      }
+    }
+  },
+  {
+    "id": 323,
+    "nameRu": "Славянский бульвар",
+    "nameEn": "Slavyansky Bulvar",
+    "stationId": "lineD1_21",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 19,
+      "colorName": "f7a600",
+      "nameRu": "МЦД-1",
+      "nameEn": "MCD-1",
+      "lineId": "lineD1",
+      "lineLogo": {
+        "number": "D1",
+        "color": "#f7a600"
+      }
+    }
+  },
+  {
+    "id": 324,
+    "nameRu": "Кунцевская",
+    "nameEn": "Kuntsevskaya",
+    "stationId": "lineD1_22",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 19,
+      "colorName": "f7a600",
+      "nameRu": "МЦД-1",
+      "nameEn": "MCD-1",
+      "lineId": "lineD1",
+      "lineLogo": {
+        "number": "D1",
+        "color": "#f7a600"
+      }
+    }
+  },
+  {
+    "id": 337,
+    "nameRu": "Волоколамская",
+    "nameEn": "Volokolamskaya",
+    "stationId": "lineD2_7",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 20,
+      "colorName": "e94282",
+      "nameRu": "МЦД-2",
+      "nameEn": "MCD-2",
+      "lineId": "lineD2",
+      "lineLogo": {
+        "number": "D2",
+        "color": "#e94282"
+      }
+    }
+  },
+  {
+    "id": 339,
+    "nameRu": "Тушинская",
+    "nameEn": "Tushinskaya",
+    "stationId": "lineD2_9",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 20,
+      "colorName": "e94282",
+      "nameRu": "МЦД-2",
+      "nameEn": "MCD-2",
+      "lineId": "lineD2",
+      "lineLogo": {
+        "number": "D2",
+        "color": "#e94282"
+      }
+    }
+  },
+  {
+    "id": 341,
+    "nameRu": "Стрешнево",
+    "nameEn": "Streshnevo",
+    "stationId": "lineD2_11",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 20,
+      "colorName": "e94282",
+      "nameRu": "МЦД-2",
+      "nameEn": "MCD-2",
+      "lineId": "lineD2",
+      "lineLogo": {
+        "number": "D2",
+        "color": "#e94282"
+      }
+    }
+  },
+  {
+    "id": 344,
+    "nameRu": "Дмитровская",
+    "nameEn": "Dmitrovskaya",
+    "stationId": "lineD2_14",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 20,
+      "colorName": "e94282",
+      "nameRu": "МЦД-2",
+      "nameEn": "MCD-2",
+      "lineId": "lineD2",
+      "lineLogo": {
+        "number": "D2",
+        "color": "#e94282"
+      }
+    }
+  },
+  {
+    "id": 345,
+    "nameRu": "Марьина Роща",
+    "nameEn": "Maryina Roscha",
+    "stationId": "lineD2_15",
+    "status": false,
+    "hasSpecs": false,
+    "line": {
+      "id": 20,
+      "colorName": "e94282",
+      "nameRu": "МЦД-2",
+      "nameEn": "MCD-2",
+      "lineId": "lineD2",
+      "lineLogo": {
+        "number": "D2",
+        "color": "#e94282"
+      }
+    }
+  },
+  {
+    "id": 346,
+    "nameRu": "Рижская",
+    "nameEn": "Rizhskaya",
+    "stationId": "lineD2_16",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 20,
+      "colorName": "e94282",
+      "nameRu": "МЦД-2",
+      "nameEn": "MCD-2",
+      "lineId": "lineD2",
+      "lineLogo": {
+        "number": "D2",
+        "color": "#e94282"
+      }
+    }
+  },
+  {
+    "id": 348,
+    "nameRu": "Курская",
+    "nameEn": "Kurskaya",
+    "stationId": "lineD2_18",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 20,
+      "colorName": "e94282",
+      "nameRu": "МЦД-2",
+      "nameEn": "MCD-2",
+      "lineId": "lineD2",
+      "lineLogo": {
+        "number": "D2",
+        "color": "#e94282"
+      }
+    }
+  },
+  {
+    "id": 351,
+    "nameRu": "Новохохловская",
+    "nameEn": "Novokhokhlovskaya",
+    "stationId": "lineD2_21",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 20,
+      "colorName": "e94282",
+      "nameRu": "МЦД-2",
+      "nameEn": "MCD-2",
+      "lineId": "lineD2",
+      "lineLogo": {
+        "number": "D2",
+        "color": "#e94282"
+      }
+    }
+  },
+  {
+    "id": 352,
+    "nameRu": "Текстильщики",
+    "nameEn": "Tekstilschiki",
+    "stationId": "lineD2_22",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 20,
+      "colorName": "e94282",
+      "nameRu": "МЦД-2",
+      "nameEn": "MCD-2",
+      "lineId": "lineD2",
+      "lineLogo": {
+        "number": "D2",
+        "color": "#e94282"
+      }
+    }
+  },
+  {
+    "id": 353,
+    "nameRu": "Печатники",
+    "nameEn": "Pechatniki",
+    "stationId": "lineD2_23",
+    "status": false,
+    "hasSpecs": false,
+    "line": {
+      "id": 20,
+      "colorName": "e94282",
+      "nameRu": "МЦД-2",
+      "nameEn": "MCD-2",
+      "lineId": "lineD2",
+      "lineLogo": {
+        "number": "D2",
+        "color": "#e94282"
+      }
+    }
+  },
+  {
+    "id": 252,
+    "nameRu": "Улица Скобелевская",
+    "nameEn": "Ulitsa Skobelevskaya",
+    "stationId": "line12_4",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 15,
+      "colorName": "BAC8E8",
+      "nameRu": "Бутовская линия",
+      "nameEn": "Butovskaya",
+      "lineId": "line12",
+      "lineLogo": {
+        "number": "12",
+        "color": "#BAC8E8"
+      }
+    }
+  },
+  {
+    "id": 254,
+    "nameRu": "Улица Горчакова",
+    "nameEn": "Ulitsa Gorchakova",
+    "stationId": "line12_6",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 15,
+      "colorName": "BAC8E8",
+      "nameRu": "Бутовская линия",
+      "nameEn": "Butovskaya",
+      "lineId": "line12",
+      "lineLogo": {
+        "number": "12",
+        "color": "#BAC8E8"
+      }
+    }
+  },
+  {
+    "id": 255,
+    "nameRu": "Бунинская аллея",
+    "nameEn": "Buninskaya Alleya",
+    "stationId": "line12_7",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 15,
+      "colorName": "BAC8E8",
+      "nameRu": "Бутовская линия",
+      "nameEn": "Butovskaya",
+      "lineId": "line12",
+      "lineLogo": {
+        "number": "12",
+        "color": "#BAC8E8"
+      }
+    }
+  },
+  {
+    "id": 261,
+    "nameRu": "Тимирязевская",
+    "nameEn": "Timiryazevskaya",
+    "stationId": "line13_6",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 16,
+      "colorName": "0A72B9",
+      "nameRu": "Монорельс",
+      "nameEn": "Moscow Monorail",
+      "lineId": "line13",
+      "lineLogo": {
+        "number": "M",
+        "color": "#0A72B9"
+      }
+    }
+  },
+  {
+    "id": 260,
+    "nameRu": "Ул. Милашенкова",
+    "nameEn": "Milashenkova St.",
+    "stationId": "line13_5",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 16,
+      "colorName": "0A72B9",
+      "nameRu": "Монорельс",
+      "nameEn": "Moscow Monorail",
+      "lineId": "line13",
+      "lineLogo": {
+        "number": "M",
+        "color": "#0A72B9"
+      }
+    }
+  },
+  {
+    "id": 259,
+    "nameRu": "Телецентр",
+    "nameEn": "Telecentre",
+    "stationId": "line13_4",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 16,
+      "colorName": "0A72B9",
+      "nameRu": "Монорельс",
+      "nameEn": "Moscow Monorail",
+      "lineId": "line13",
+      "lineLogo": {
+        "number": "M",
+        "color": "#0A72B9"
+      }
+    }
+  },
+  {
+    "id": 257,
+    "nameRu": "Выставочный центр",
+    "nameEn": "Vystavochnyj centr",
+    "stationId": "line13_2",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 16,
+      "colorName": "0A72B9",
+      "nameRu": "Монорельс",
+      "nameEn": "Moscow Monorail",
+      "lineId": "line13",
+      "lineLogo": {
+        "number": "M",
+        "color": "#0A72B9"
+      }
+    }
+  },
+  {
+    "id": 288,
+    "nameRu": "Окружная",
+    "nameEn": "Okruzhnaya",
+    "stationId": "line14_27",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 17,
+      "colorName": "ffcec6",
+      "nameRu": "МЦК",
+      "nameEn": "Moscow Central Circle",
+      "lineId": "line14",
+      "lineLogo": {
+        "number": "14",
+        "color": "#ffcec6"
+      }
+    }
+  },
+  {
+    "id": 289,
+    "nameRu": "Владыкино",
+    "nameEn": "Vladykino",
+    "stationId": "line14_28",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 17,
+      "colorName": "ffcec6",
+      "nameRu": "МЦК",
+      "nameEn": "Moscow Central Circle",
+      "lineId": "line14",
+      "lineLogo": {
+        "number": "14",
+        "color": "#ffcec6"
+      }
+    }
+  },
+  {
+    "id": 290,
+    "nameRu": "Ботанический сад",
+    "nameEn": "Botanichesky Sad",
+    "stationId": "line14_29",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 17,
+      "colorName": "ffcec6",
+      "nameRu": "МЦК",
+      "nameEn": "Moscow Central Circle",
+      "lineId": "line14",
+      "lineLogo": {
+        "number": "14",
+        "color": "#ffcec6"
+      }
+    }
+  },
+  {
+    "id": 291,
+    "nameRu": "Ростокино",
+    "nameEn": "Rostokino",
+    "stationId": "line14_30",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 17,
+      "colorName": "ffcec6",
+      "nameRu": "МЦК",
+      "nameEn": "Moscow Central Circle",
+      "lineId": "line14",
+      "lineLogo": {
+        "number": "14",
+        "color": "#ffcec6"
+      }
+    }
+  },
+  {
+    "id": 292,
+    "nameRu": "Белокаменная",
+    "nameEn": "Belokamennaya",
+    "stationId": "line14_31",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 17,
+      "colorName": "ffcec6",
+      "nameRu": "МЦК",
+      "nameEn": "Moscow Central Circle",
+      "lineId": "line14",
+      "lineLogo": {
+        "number": "14",
+        "color": "#ffcec6"
+      }
+    }
+  },
+  {
+    "id": 263,
+    "nameRu": "Локомотив",
+    "nameEn": "Lokomotiv",
+    "stationId": "line14_2",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 17,
+      "colorName": "ffcec6",
+      "nameRu": "МЦК",
+      "nameEn": "Moscow Central Circle",
+      "lineId": "line14",
+      "lineLogo": {
+        "number": "14",
+        "color": "#ffcec6"
+      }
+    }
+  },
+  {
+    "id": 265,
+    "nameRu": "Соколиная Гора",
+    "nameEn": "Sokolinaya Gora",
+    "stationId": "line14_4",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 17,
+      "colorName": "ffcec6",
+      "nameRu": "МЦК",
+      "nameEn": "Moscow Central Circle",
+      "lineId": "line14",
+      "lineLogo": {
+        "number": "14",
+        "color": "#ffcec6"
+      }
+    }
+  },
+  {
+    "id": 266,
+    "nameRu": "Шоссе Энтузиастов",
+    "nameEn": "Shosse Entuziastov",
+    "stationId": "line14_5",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 17,
+      "colorName": "ffcec6",
+      "nameRu": "МЦК",
+      "nameEn": "Moscow Central Circle",
+      "lineId": "line14",
+      "lineLogo": {
+        "number": "14",
+        "color": "#ffcec6"
+      }
+    }
+  },
+  {
+    "id": 267,
+    "nameRu": "Андроновка",
+    "nameEn": "Andronovka",
+    "stationId": "line14_6",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 17,
+      "colorName": "ffcec6",
+      "nameRu": "МЦК",
+      "nameEn": "Moscow Central Circle",
+      "lineId": "line14",
+      "lineLogo": {
+        "number": "14",
+        "color": "#ffcec6"
+      }
+    }
+  },
+  {
+    "id": 269,
+    "nameRu": "Новохохловская",
+    "nameEn": "Novokhokhlovskaya",
+    "stationId": "line14_8",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 17,
+      "colorName": "ffcec6",
+      "nameRu": "МЦК",
+      "nameEn": "Moscow Central Circle",
+      "lineId": "line14",
+      "lineLogo": {
+        "number": "14",
+        "color": "#ffcec6"
+      }
+    }
+  },
+  {
+    "id": 270,
+    "nameRu": "Угрешская",
+    "nameEn": "Ugreshskaya",
+    "stationId": "line14_9",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 17,
+      "colorName": "ffcec6",
+      "nameRu": "МЦК",
+      "nameEn": "Moscow Central Circle",
+      "lineId": "line14",
+      "lineLogo": {
+        "number": "14",
+        "color": "#ffcec6"
+      }
+    }
+  },
+  {
+    "id": 271,
+    "nameRu": "Дубровка",
+    "nameEn": "Dubrovka",
+    "stationId": "line14_10",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 17,
+      "colorName": "ffcec6",
+      "nameRu": "МЦК",
+      "nameEn": "Moscow Central Circle",
+      "lineId": "line14",
+      "lineLogo": {
+        "number": "14",
+        "color": "#ffcec6"
+      }
+    }
+  },
+  {
+    "id": 272,
+    "nameRu": "Автозаводская",
+    "nameEn": "Avtozavodskaya",
+    "stationId": "line14_11",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 17,
+      "colorName": "ffcec6",
+      "nameRu": "МЦК",
+      "nameEn": "Moscow Central Circle",
+      "lineId": "line14",
+      "lineLogo": {
+        "number": "14",
+        "color": "#ffcec6"
+      }
+    }
+  },
+  {
+    "id": 273,
+    "nameRu": "ЗИЛ",
+    "nameEn": "ZIL",
+    "stationId": "line14_12",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 17,
+      "colorName": "ffcec6",
+      "nameRu": "МЦК",
+      "nameEn": "Moscow Central Circle",
+      "lineId": "line14",
+      "lineLogo": {
+        "number": "14",
+        "color": "#ffcec6"
+      }
+    }
+  },
+  {
+    "id": 277,
+    "nameRu": "Лужники",
+    "nameEn": "Luzhniki",
+    "stationId": "line14_16",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 17,
+      "colorName": "ffcec6",
+      "nameRu": "МЦК",
+      "nameEn": "Moscow Central Circle",
+      "lineId": "line14",
+      "lineLogo": {
+        "number": "14",
+        "color": "#ffcec6"
+      }
+    }
+  },
+  {
+    "id": 278,
+    "nameRu": "Кутузовская",
+    "nameEn": "Kutuzovskaya",
+    "stationId": "line14_17",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 17,
+      "colorName": "ffcec6",
+      "nameRu": "МЦК",
+      "nameEn": "Moscow Central Circle",
+      "lineId": "line14",
+      "lineLogo": {
+        "number": "14",
+        "color": "#ffcec6"
+      }
+    }
+  },
+  {
+    "id": 280,
+    "nameRu": "Шелепиха",
+    "nameEn": "Shelepikha",
+    "stationId": "line14_19",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 17,
+      "colorName": "ffcec6",
+      "nameRu": "МЦК",
+      "nameEn": "Moscow Central Circle",
+      "lineId": "line14",
+      "lineLogo": {
+        "number": "14",
+        "color": "#ffcec6"
+      }
+    }
+  },
+  {
+    "id": 282,
+    "nameRu": "Зорге",
+    "nameEn": "Zorge",
+    "stationId": "line14_21",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 17,
+      "colorName": "ffcec6",
+      "nameRu": "МЦК",
+      "nameEn": "Moscow Central Circle",
+      "lineId": "line14",
+      "lineLogo": {
+        "number": "14",
+        "color": "#ffcec6"
+      }
+    }
+  },
+  {
+    "id": 284,
+    "nameRu": "Стрешнево",
+    "nameEn": "Streshnevo",
+    "stationId": "line14_23",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 17,
+      "colorName": "ffcec6",
+      "nameRu": "МЦК",
+      "nameEn": "Moscow Central Circle",
+      "lineId": "line14",
+      "lineLogo": {
+        "number": "14",
+        "color": "#ffcec6"
+      }
+    }
+  },
+  {
+    "id": 286,
+    "nameRu": "Коптево",
+    "nameEn": "Koptevo",
+    "stationId": "line14_25",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 17,
+      "colorName": "ffcec6",
+      "nameRu": "МЦК",
+      "nameEn": "Moscow Central Circle",
+      "lineId": "line14",
+      "lineLogo": {
+        "number": "14",
+        "color": "#ffcec6"
+      }
+    }
+  },
+  {
+    "id": 359,
+    "nameRu": "Царицыно",
+    "nameEn": "Tsaritsyno",
+    "stationId": "lineD2_29",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 20,
+      "colorName": "e94282",
+      "nameRu": "МЦД-2",
+      "nameEn": "MCD-2",
+      "lineId": "lineD2",
+      "lineLogo": {
+        "number": "D2",
+        "color": "#e94282"
+      }
+    }
+  },
+  {
+    "id": 236,
+    "nameRu": "Кленовый бульвар",
+    "nameEn": "Maple Boulevard",
+    "stationId": "line11_21",
+    "status": false,
+    "hasSpecs": false,
+    "line": {
+      "id": 13,
+      "colorName": "89CDCF",
+      "nameRu": "Большая Кольцевая линия",
+      "nameEn": "Big Circle Line",
+      "lineId": "line11",
+      "lineLogo": {
+        "number": "11",
+        "color": "#89CDCF"
+      }
+    }
+  },
+  {
+    "id": 360,
+    "nameRu": "Котляково",
+    "nameEn": "Kotlyakovo",
+    "stationId": "lineD2_30",
+    "status": false,
+    "hasSpecs": false,
+    "line": {
+      "id": 20,
+      "colorName": "e94282",
+      "nameRu": "МЦД-2",
+      "nameEn": "MCD-2",
+      "lineId": "lineD2",
+      "lineLogo": {
+        "number": "D2",
+        "color": "#e94282"
+      }
+    }
+  },
+  {
+    "id": 334,
+    "nameRu": "Красногорская",
+    "nameEn": "Krasnogorskaya",
+    "stationId": "lineD2_4",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 20,
+      "colorName": "e94282",
+      "nameRu": "МЦД-2",
+      "nameEn": "MCD-2",
+      "lineId": "lineD2",
+      "lineLogo": {
+        "number": "D2",
+        "color": "#e94282"
+      }
+    }
+  },
+  {
+    "id": 7,
+    "nameRu": "Красные ворота",
+    "nameEn": "Krasnye vorota",
+    "stationId": "line1_7",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 1,
+      "colorName": "e42518",
+      "nameRu": "Сокольническая линия",
+      "nameEn": "Sokolnicheskaya",
+      "lineId": "line1",
+      "lineLogo": {
+        "number": "1",
+        "color": "#e42518"
+      }
+    }
+  },
+  {
+    "id": 342,
+    "nameRu": "Красный балтиец",
+    "nameEn": "Krasnyj baltiec",
+    "stationId": "lineD2_12",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 20,
+      "colorName": "e94282",
+      "nameRu": "МЦД-2",
+      "nameEn": "MCD-2",
+      "lineId": "lineD2",
+      "lineLogo": {
+        "number": "D2",
+        "color": "#e94282"
+      }
+    }
+  },
+  {
+    "id": 206,
+    "nameRu": "Крестьянская застава",
+    "nameEn": "Krest'yanskaya zastava",
+    "stationId": "line10_13",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 12,
+      "colorName": "BED12E",
+      "nameRu": "Люблинско-Дмитровская линия",
+      "nameEn": "Lyublinsko-Dmitrovskaya",
+      "lineId": "line10",
+      "lineLogo": {
+        "number": "10",
+        "color": "#BED12E"
+      }
+    }
+  },
+  {
+    "id": 133,
+    "nameRu": "Кузнецкий мост",
+    "nameEn": "Kuznetsky Most",
+    "stationId": "line7_12",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 8,
+      "colorName": "943f90",
+      "nameRu": "Таганско-Краснопресненская линия",
+      "nameEn": "Tagansko-Krasnopresnenskaya",
+      "lineId": "line7",
+      "lineLogo": {
+        "number": "7",
+        "color": "#943f90"
+      }
+    }
+  },
+  {
+    "id": 357,
+    "nameRu": "Курьяново",
+    "nameEn": "Kuryanovo",
+    "stationId": "lineD2_27",
+    "status": false,
+    "hasSpecs": false,
+    "line": {
+      "id": 20,
+      "colorName": "e94282",
+      "nameRu": "МЦД-2",
+      "nameEn": "MCD-2",
+      "lineId": "lineD2",
+      "lineLogo": {
+        "number": "D2",
+        "color": "#e94282"
+      }
+    }
+  },
+  {
+    "id": 354,
+    "nameRu": "Кубанская",
+    "nameEn": "Kubanskaya",
+    "stationId": "lineD2_24",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 20,
+      "colorName": "e94282",
+      "nameRu": "МЦД-2",
+      "nameEn": "MCD-2",
+      "lineId": "lineD2",
+      "lineLogo": {
+        "number": "D2",
+        "color": "#e94282"
+      }
+    }
+  },
+  {
+    "id": 310,
+    "nameRu": "Лианозово",
+    "nameEn": "Lianozovo",
+    "stationId": "lineD1_8",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 19,
+      "colorName": "f7a600",
+      "nameRu": "МЦД-1",
+      "nameEn": "MCD-1",
+      "lineId": "lineD1",
+      "lineLogo": {
+        "number": "D1",
+        "color": "#f7a600"
+      }
+    }
+  },
+  {
+    "id": 303,
+    "nameRu": "Лобня",
+    "nameEn": "Lobnya",
+    "stationId": "lineD1_1",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 19,
+      "colorName": "f7a600",
+      "nameRu": "МЦД-1",
+      "nameEn": "MCD-1",
+      "lineId": "lineD1",
+      "lineLogo": {
+        "number": "D1",
+        "color": "#f7a600"
+      }
+    }
+  },
+  {
+    "id": 362,
+    "nameRu": "Красный строитель",
+    "nameEn": "Krasnyj stroitel'",
+    "stationId": "lineD2_32",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 20,
+      "colorName": "e94282",
+      "nameRu": "МЦД-2",
+      "nameEn": "MCD-2",
+      "lineId": "lineD2",
+      "lineLogo": {
+        "number": "D2",
+        "color": "#e94282"
+      }
+    }
+  },
+  {
+    "id": 309,
+    "nameRu": "Марк",
+    "nameEn": "Mark",
+    "stationId": "lineD1_7",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 19,
+      "colorName": "f7a600",
+      "nameRu": "МЦД-1",
+      "nameEn": "MCD-1",
+      "lineId": "lineD1",
+      "lineLogo": {
+        "number": "D1",
+        "color": "#f7a600"
+      }
+    }
+  },
+  {
+    "id": 333,
+    "nameRu": "Опалиха",
+    "nameEn": "Opaliha",
+    "stationId": "lineD2_3",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 20,
+      "colorName": "e94282",
+      "nameRu": "МЦД-2",
+      "nameEn": "MCD-2",
+      "lineId": "lineD2",
+      "lineLogo": {
+        "number": "D2",
+        "color": "#e94282"
+      }
+    }
+  },
+  {
+    "id": 366,
+    "nameRu": "Остафьево",
+    "nameEn": "Ostafievo",
+    "stationId": "lineD2_36",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 20,
+      "colorName": "e94282",
+      "nameRu": "МЦД-2",
+      "nameEn": "MCD-2",
+      "lineId": "lineD2",
+      "lineLogo": {
+        "number": "D2",
+        "color": "#e94282"
+      }
+    }
+  },
+  {
+    "id": 335,
+    "nameRu": "Павшино",
+    "nameEn": "Pavshino",
+    "stationId": "lineD2_5",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 20,
+      "colorName": "e94282",
+      "nameRu": "МЦД-2",
+      "nameEn": "MCD-2",
+      "lineId": "lineD2",
+      "lineLogo": {
+        "number": "D2",
+        "color": "#e94282"
+      }
+    }
+  },
+  {
+    "id": 336,
+    "nameRu": "Пенягино",
+    "nameEn": "Penyagino",
+    "stationId": "lineD2_6",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 20,
+      "colorName": "e94282",
+      "nameRu": "МЦД-2",
+      "nameEn": "MCD-2",
+      "lineId": "lineD2",
+      "lineLogo": {
+        "number": "D2",
+        "color": "#e94282"
+      }
+    }
+  },
+  {
+    "id": 356,
+    "nameRu": "Перерва",
+    "nameEn": "Pererva",
+    "stationId": "lineD2_26",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 20,
+      "colorName": "e94282",
+      "nameRu": "МЦД-2",
+      "nameEn": "MCD-2",
+      "lineId": "lineD2",
+      "lineLogo": {
+        "number": "D2",
+        "color": "#e94282"
+      }
+    }
+  },
+  {
+    "id": 368,
+    "nameRu": "Подольск",
+    "nameEn": "Podolsk",
+    "stationId": "lineD2_38",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 20,
+      "colorName": "e94282",
+      "nameRu": "МЦД-2",
+      "nameEn": "MCD-2",
+      "lineId": "lineD2",
+      "lineLogo": {
+        "number": "D2",
+        "color": "#e94282"
+      }
+    }
+  },
+  {
+    "id": 361,
+    "nameRu": "Покровское",
+    "nameEn": "Pokrovskoye",
+    "stationId": "lineD2_31",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 20,
+      "colorName": "e94282",
+      "nameRu": "МЦД-2",
+      "nameEn": "MCD-2",
+      "lineId": "lineD2",
+      "lineLogo": {
+        "number": "D2",
+        "color": "#e94282"
+      }
+    }
+  },
+  {
+    "id": 340,
+    "nameRu": "Покровское-Стрешнево",
+    "nameEn": "Pokrovskoe-Streshnevo",
+    "stationId": "lineD2_10",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 20,
+      "colorName": "e94282",
+      "nameRu": "МЦД-2",
+      "nameEn": "MCD-2",
+      "lineId": "lineD2",
+      "lineLogo": {
+        "number": "D2",
+        "color": "#e94282"
+      }
+    }
+  },
+  {
+    "id": 349,
+    "nameRu": "Москва Товарная",
+    "nameEn": "Moscow Tovarnaya",
+    "stationId": "lineD2_19",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 20,
+      "colorName": "e94282",
+      "nameRu": "МЦД-2",
+      "nameEn": "MCD-2",
+      "lineId": "lineD2",
+      "lineLogo": {
+        "number": "D2",
+        "color": "#e94282"
+      }
+    }
+  },
+  {
+    "id": 358,
+    "nameRu": "Москворечье",
+    "nameEn": "Moskvorechye",
+    "stationId": "lineD2_28",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 20,
+      "colorName": "e94282",
+      "nameRu": "МЦД-2",
+      "nameEn": "MCD-2",
+      "lineId": "lineD2",
+      "lineLogo": {
+        "number": "D2",
+        "color": "#e94282"
+      }
+    }
+  },
+  {
+    "id": 308,
+    "nameRu": "Новодачная",
+    "nameEn": "Novodachnaya",
+    "stationId": "lineD1_6",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 19,
+      "colorName": "f7a600",
+      "nameRu": "МЦД-1",
+      "nameEn": "MCD-1",
+      "lineId": "lineD1",
+      "lineLogo": {
+        "number": "D1",
+        "color": "#f7a600"
+      }
+    }
+  },
+  {
+    "id": 327,
+    "nameRu": "Немчиновка",
+    "nameEn": "Nemchinovka",
+    "stationId": "lineD1_25",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 19,
+      "colorName": "f7a600",
+      "nameRu": "МЦД-1",
+      "nameEn": "MCD-1",
+      "lineId": "lineD1",
+      "lineLogo": {
+        "number": "D1",
+        "color": "#f7a600"
+      }
+    }
+  },
+  {
+    "id": 331,
+    "nameRu": "Нахабино",
+    "nameEn": "Nahabino",
+    "stationId": "lineD2_1",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 20,
+      "colorName": "e94282",
+      "nameRu": "МЦД-2",
+      "nameEn": "MCD-2",
+      "lineId": "lineD2",
+      "lineLogo": {
+        "number": "D2",
+        "color": "#e94282"
+      }
+    }
+  },
+  {
+    "id": 325,
+    "nameRu": "Рабочий поселок",
+    "nameEn": "Rabochij poselok",
+    "stationId": "lineD1_23",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 19,
+      "colorName": "f7a600",
+      "nameRu": "МЦД-1",
+      "nameEn": "MCD-1",
+      "lineId": "lineD1",
+      "lineLogo": {
+        "number": "D1",
+        "color": "#f7a600"
+      }
+    }
+  },
+  {
+    "id": 326,
+    "nameRu": "Сетунь",
+    "nameEn": "Setun",
+    "stationId": "lineD1_24",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 19,
+      "colorName": "f7a600",
+      "nameRu": "МЦД-1",
+      "nameEn": "MCD-1",
+      "lineId": "lineD1",
+      "lineLogo": {
+        "number": "D1",
+        "color": "#f7a600"
+      }
+    }
+  },
+  {
+    "id": 367,
+    "nameRu": "Силикатная",
+    "nameEn": "Silikatnaya",
+    "stationId": "lineD2_37",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 20,
+      "colorName": "e94282",
+      "nameRu": "МЦД-2",
+      "nameEn": "MCD-2",
+      "lineId": "lineD2",
+      "lineLogo": {
+        "number": "D2",
+        "color": "#e94282"
+      }
+    }
+  },
+  {
+    "id": 330,
+    "nameRu": "Одинцово",
+    "nameEn": "Odintsovo",
+    "stationId": "lineD1_28",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 19,
+      "colorName": "f7a600",
+      "nameRu": "МЦД-1",
+      "nameEn": "MCD-1",
+      "lineId": "lineD1",
+      "lineLogo": {
+        "number": "D1",
+        "color": "#f7a600"
+      }
+    }
+  },
+  {
+    "id": 328,
+    "nameRu": "Сколково",
+    "nameEn": "Skolkovo",
+    "stationId": "lineD1_26",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 19,
+      "colorName": "f7a600",
+      "nameRu": "МЦД-1",
+      "nameEn": "MCD-1",
+      "lineId": "lineD1",
+      "lineLogo": {
+        "number": "D1",
+        "color": "#f7a600"
+      }
+    }
+  },
+  {
+    "id": 321,
+    "nameRu": "Тестовская",
+    "nameEn": "Testovskaya",
+    "stationId": "lineD1_19",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 19,
+      "colorName": "f7a600",
+      "nameRu": "МЦД-1",
+      "nameEn": "MCD-1",
+      "lineId": "lineD1",
+      "lineLogo": {
+        "number": "D1",
+        "color": "#f7a600"
+      }
+    }
+  },
+  {
+    "id": 338,
+    "nameRu": "Трикотажная",
+    "nameEn": "Trikotazhnaya",
+    "stationId": "lineD2_8",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 20,
+      "colorName": "e94282",
+      "nameRu": "МЦД-2",
+      "nameEn": "MCD-2",
+      "lineId": "lineD2",
+      "lineLogo": {
+        "number": "D2",
+        "color": "#e94282"
+      }
+    }
+  },
+  {
+    "id": 305,
+    "nameRu": "Хлебниково",
+    "nameEn": "Khlebnikovo",
+    "stationId": "lineD1_3",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 19,
+      "colorName": "f7a600",
+      "nameRu": "МЦД-1",
+      "nameEn": "MCD-1",
+      "lineId": "lineD1",
+      "lineLogo": {
+        "number": "D1",
+        "color": "#f7a600"
+      }
+    }
+  },
+  {
+    "id": 365,
+    "nameRu": "Щербинка",
+    "nameEn": "Scherbinka",
+    "stationId": "lineD2_35",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 20,
+      "colorName": "e94282",
+      "nameRu": "МЦД-2",
+      "nameEn": "MCD-2",
+      "lineId": "lineD2",
+      "lineLogo": {
+        "number": "D2",
+        "color": "#e94282"
+      }
+    }
+  },
+  {
+    "id": 306,
+    "nameRu": "Водники",
+    "nameEn": "Vodniki",
+    "stationId": "lineD1_4",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 19,
+      "colorName": "f7a600",
+      "nameRu": "МЦД-1",
+      "nameEn": "MCD-1",
+      "lineId": "lineD1",
+      "lineLogo": {
+        "number": "D1",
+        "color": "#f7a600"
+      }
+    }
+  },
+  {
+    "id": 343,
+    "nameRu": "Гражданская",
+    "nameEn": "Grazhdanskaya",
+    "stationId": "lineD2_13",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 20,
+      "colorName": "e94282",
+      "nameRu": "МЦД-2",
+      "nameEn": "MCD-2",
+      "lineId": "lineD2",
+      "lineLogo": {
+        "number": "D2",
+        "color": "#e94282"
+      }
+    }
+  },
+  {
+    "id": 313,
+    "nameRu": "Дегунино",
+    "nameEn": "Deguenino",
+    "stationId": "lineD1_11",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 19,
+      "colorName": "f7a600",
+      "nameRu": "МЦД-1",
+      "nameEn": "MCD-1",
+      "lineId": "lineD1",
+      "lineLogo": {
+        "number": "D1",
+        "color": "#f7a600"
+      }
+    }
+  },
+  {
+    "id": 355,
+    "nameRu": "Депо",
+    "nameEn": "Depo",
+    "stationId": "lineD2_25",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 20,
+      "colorName": "e94282",
+      "nameRu": "МЦД-2",
+      "nameEn": "MCD-2",
+      "lineId": "lineD2",
+      "lineLogo": {
+        "number": "D2",
+        "color": "#e94282"
+      }
+    }
+  },
+  {
+    "id": 307,
+    "nameRu": "Долгопрудная",
+    "nameEn": "Dolgoprudnaya",
+    "stationId": "lineD1_5",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 19,
+      "colorName": "f7a600",
+      "nameRu": "МЦД-1",
+      "nameEn": "MCD-1",
+      "lineId": "lineD1",
+      "lineLogo": {
+        "number": "D1",
+        "color": "#f7a600"
+      }
+    }
+  },
+  {
+    "id": 311,
+    "nameRu": "Илимская",
+    "nameEn": "Ilimskaya",
+    "stationId": "lineD1_9",
+    "status": false,
+    "hasSpecs": false,
+    "line": {
+      "id": 19,
+      "colorName": "f7a600",
+      "nameRu": "МЦД-1",
+      "nameEn": "MCD-1",
+      "lineId": "lineD1",
+      "lineLogo": {
+        "number": "D1",
+        "color": "#f7a600"
+      }
+    }
+  },
+  {
+    "id": 347,
+    "nameRu": "Каланчёвская",
+    "nameEn": "Kalanchevskaya",
+    "stationId": "lineD2_17",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 20,
+      "colorName": "e94282",
+      "nameRu": "МЦД-2",
+      "nameEn": "MCD-2",
+      "lineId": "lineD2",
+      "lineLogo": {
+        "number": "D2",
+        "color": "#e94282"
+      }
+    }
+  },
+  {
+    "id": 350,
+    "nameRu": "Калитники",
+    "nameEn": "Kalitniki",
+    "stationId": "lineD2_20",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 20,
+      "colorName": "e94282",
+      "nameRu": "МЦД-2",
+      "nameEn": "MCD-2",
+      "lineId": "lineD2",
+      "lineLogo": {
+        "number": "D2",
+        "color": "#e94282"
+      }
+    }
+  },
+  {
+    "id": 312,
+    "nameRu": "Бескудниково",
+    "nameEn": "Beskudnikovo",
+    "stationId": "lineD1_10",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 19,
+      "colorName": "f7a600",
+      "nameRu": "МЦД-1",
+      "nameEn": "MCD-1",
+      "lineId": "lineD1",
+      "lineLogo": {
+        "number": "D1",
+        "color": "#f7a600"
+      }
+    }
+  },
+  {
+    "id": 329,
+    "nameRu": "Баковка",
+    "nameEn": "Bakovka",
+    "stationId": "lineD1_27",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 19,
+      "colorName": "f7a600",
+      "nameRu": "МЦД-1",
+      "nameEn": "MCD-1",
+      "lineId": "lineD1",
+      "lineLogo": {
+        "number": "D1",
+        "color": "#f7a600"
+      }
+    }
+  },
+  {
+    "id": 363,
+    "nameRu": "Битца",
+    "nameEn": "Bitza",
+    "stationId": "lineD2_33",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 20,
+      "colorName": "e94282",
+      "nameRu": "МЦД-2",
+      "nameEn": "MCD-2",
+      "lineId": "lineD2",
+      "lineLogo": {
+        "number": "D2",
+        "color": "#e94282"
+      }
+    }
+  },
+  {
+    "id": 364,
+    "nameRu": "Бутово",
+    "nameEn": "Butovo",
+    "stationId": "lineD2_34",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 20,
+      "colorName": "e94282",
+      "nameRu": "МЦД-2",
+      "nameEn": "MCD-2",
+      "lineId": "lineD2",
+      "lineLogo": {
+        "number": "D2",
+        "color": "#e94282"
+      }
+    }
+  },
+  {
+    "id": 304,
+    "nameRu": "Шереметьевская",
+    "nameEn": "Sheremetyevskaya",
+    "stationId": "lineD1_2",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 19,
+      "colorName": "f7a600",
+      "nameRu": "МЦД-1",
+      "nameEn": "MCD-1",
+      "lineId": "lineD1",
+      "lineLogo": {
+        "number": "D1",
+        "color": "#f7a600"
+      }
+    }
+  },
+  {
+    "id": 332,
+    "nameRu": "Аникеевка",
+    "nameEn": "Anikeevka",
+    "stationId": "lineD2_2",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 20,
+      "colorName": "e94282",
+      "nameRu": "МЦД-2",
+      "nameEn": "MCD-2",
+      "lineId": "lineD2",
+      "lineLogo": {
+        "number": "D2",
+        "color": "#e94282"
+      }
+    }
+  },
+  {
+    "id": 20,
+    "nameRu": "Тропарёво",
+    "nameEn": "Troparyovo",
+    "stationId": "line1_20",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 1,
+      "colorName": "e42518",
+      "nameRu": "Сокольническая линия",
+      "nameEn": "Sokolnicheskaya",
+      "lineId": "line1",
+      "lineLogo": {
+        "number": "1",
+        "color": "#e42518"
+      }
+    }
+  },
+  {
+    "id": 21,
+    "nameRu": "Румянцево",
+    "nameEn": "Rumyantsevo",
+    "stationId": "line1_21",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 1,
+      "colorName": "e42518",
+      "nameRu": "Сокольническая линия",
+      "nameEn": "Sokolnicheskaya",
+      "lineId": "line1",
+      "lineLogo": {
+        "number": "1",
+        "color": "#e42518"
+      }
+    }
+  },
+  {
+    "id": 50,
+    "nameRu": "Алма-Атинская",
+    "nameEn": "Alma-Atinskaya",
+    "stationId": "line2_24",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 2,
+      "colorName": "4baf4f",
+      "nameRu": "Замоскворецкая линия",
+      "nameEn": "Zamoskvoretskaya",
+      "lineId": "line2",
+      "lineLogo": {
+        "number": "2",
+        "color": "#4baf4f"
+      }
+    }
+  },
+  {
+    "id": 85,
+    "nameRu": "Международная",
+    "nameEn": "Mezhdunarodnaya",
+    "stationId": "line4_6",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 4,
+      "colorName": "24bcee",
+      "nameRu": "Филёвская линия",
+      "nameEn": "Filyovskaya",
+      "lineId": "line4",
+      "lineLogo": {
+        "number": "4",
+        "color": "#24bcee"
+      }
+    }
+  },
+  {
+    "id": 121,
+    "nameRu": "Новоясеневская",
+    "nameEn": "Novoyasenevskaya",
+    "stationId": "line6_24",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 7,
+      "colorName": "ef7e24",
+      "nameRu": "Калужско-Рижская линия",
+      "nameEn": "Kaluzhsko-Rizhskaya",
+      "lineId": "line6",
+      "lineLogo": {
+        "number": "6",
+        "color": "#ef7e24"
+      }
+    }
+  },
+  {
+    "id": 160,
+    "nameRu": "Ломоносовский проспект",
+    "nameEn": "Lomonosovsky Prospekt",
+    "stationId": "line8A_8",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 10,
+      "colorName": "FFCD1E",
+      "nameRu": "Солнцевская линия",
+      "nameEn": "Solntsevskaya",
+      "lineId": "line8A",
+      "lineLogo": {
+        "number": "8A",
+        "color": "#FFCD1E"
+      }
+    }
+  },
+  {
+    "id": 201,
+    "nameRu": "Достоевская",
+    "nameEn": "Dostoevskaya",
+    "stationId": "line10_8",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 12,
+      "colorName": "BED12E",
+      "nameRu": "Люблинско-Дмитровская линия",
+      "nameEn": "Lyublinsko-Dmitrovskaya",
+      "lineId": "line10",
+      "lineLogo": {
+        "number": "10",
+        "color": "#BED12E"
+      }
+    }
+  },
+  {
+    "id": 221,
+    "nameRu": "Шелепиха",
+    "nameEn": "Shelepikha",
+    "stationId": "line11_5",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 13,
+      "colorName": "89CDCF",
+      "nameRu": "Большая Кольцевая линия",
+      "nameEn": "Big Circle Line",
+      "lineId": "line11",
+      "lineLogo": {
+        "number": "11",
+        "color": "#89CDCF"
+      }
+    }
+  },
+  {
+    "id": 154,
+    "nameRu": "Петровский парк",
+    "nameEn": "Petrovsky Park",
+    "stationId": "line8A_2",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 10,
+      "colorName": "FFCD1E",
+      "nameRu": "Солнцевская линия",
+      "nameEn": "Solntsevskaya",
+      "lineId": "line8A",
+      "lineLogo": {
+        "number": "8A",
+        "color": "#FFCD1E"
+      }
+    }
+  },
+  {
+    "id": 222,
+    "nameRu": "Деловой центр",
+    "nameEn": "Delovoy Tsentr",
+    "stationId": "line11_6",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 13,
+      "colorName": "89CDCF",
+      "nameRu": "Большая Кольцевая линия",
+      "nameEn": "Big Circle Line",
+      "lineId": "line11",
+      "lineLogo": {
+        "number": "11",
+        "color": "#89CDCF"
+      }
+    }
+  },
+  {
+    "id": 249,
+    "nameRu": "Битцевский парк",
+    "nameEn": "Bitsevsky Park",
+    "stationId": "line12_1",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 15,
+      "colorName": "BAC8E8",
+      "nameRu": "Бутовская линия",
+      "nameEn": "Butovskaya",
+      "lineId": "line12",
+      "lineLogo": {
+        "number": "12",
+        "color": "#BAC8E8"
+      }
+    }
+  },
+  {
+    "id": 250,
+    "nameRu": "Лесопарковая",
+    "nameEn": "Lesoparkovaya",
+    "stationId": "line12_2",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 15,
+      "colorName": "BAC8E8",
+      "nameRu": "Бутовская линия",
+      "nameEn": "Butovskaya",
+      "lineId": "line12",
+      "lineLogo": {
+        "number": "12",
+        "color": "#BAC8E8"
+      }
+    }
+  },
+  {
+    "id": 253,
+    "nameRu": "Бульвар адмирала Ушакова",
+    "nameEn": "Bul'var admirala Ushakova",
+    "stationId": "line12_5",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 15,
+      "colorName": "BAC8E8",
+      "nameRu": "Бутовская линия",
+      "nameEn": "Butovskaya",
+      "lineId": "line12",
+      "lineLogo": {
+        "number": "12",
+        "color": "#BAC8E8"
+      }
+    }
+  },
+  {
+    "id": 262,
+    "nameRu": "Бульвар Рокоссовского",
+    "nameEn": "Bulvar Rokossovskogo",
+    "stationId": "line14_1",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 17,
+      "colorName": "ffcec6",
+      "nameRu": "МЦК",
+      "nameEn": "Moscow Central Circle",
+      "lineId": "line14",
+      "lineLogo": {
+        "number": "14",
+        "color": "#ffcec6"
+      }
+    }
+  },
+  {
+    "id": 258,
+    "nameRu": "Ул. Академика Королева",
+    "nameEn": "Academic Queen's St.",
+    "stationId": "line13_3",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 16,
+      "colorName": "0A72B9",
+      "nameRu": "Монорельс",
+      "nameEn": "Moscow Monorail",
+      "lineId": "line13",
+      "lineLogo": {
+        "number": "M",
+        "color": "#0A72B9"
+      }
+    }
+  },
+  {
+    "id": 256,
+    "nameRu": "Ул. Сергея Эйзенштейна",
+    "nameEn": "Sergei Eisenstein St.",
+    "stationId": "line13_1",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 16,
+      "colorName": "0A72B9",
+      "nameRu": "Монорельс",
+      "nameEn": "Moscow Monorail",
+      "lineId": "line13",
+      "lineLogo": {
+        "number": "M",
+        "color": "#0A72B9"
+      }
+    }
+  },
+  {
+    "id": 281,
+    "nameRu": "Хорошево",
+    "nameEn": "Horoshevo",
+    "stationId": "line14_20",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 17,
+      "colorName": "ffcec6",
+      "nameRu": "МЦК",
+      "nameEn": "Moscow Central Circle",
+      "lineId": "line14",
+      "lineLogo": {
+        "number": "14",
+        "color": "#ffcec6"
+      }
+    }
+  },
+  {
+    "id": 285,
+    "nameRu": "Балтийская",
+    "nameEn": "Baltiĭskaya",
+    "stationId": "line14_24",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 17,
+      "colorName": "ffcec6",
+      "nameRu": "МЦК",
+      "nameEn": "Moscow Central Circle",
+      "lineId": "line14",
+      "lineLogo": {
+        "number": "14",
+        "color": "#ffcec6"
+      }
+    }
+  },
+  {
+    "id": 279,
+    "nameRu": "Деловой центр",
+    "nameEn": "Delovoy center",
+    "stationId": "line14_18",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 17,
+      "colorName": "ffcec6",
+      "nameRu": "МЦК",
+      "nameEn": "Moscow Central Circle",
+      "lineId": "line14",
+      "lineLogo": {
+        "number": "14",
+        "color": "#ffcec6"
+      }
+    }
+  },
+  {
+    "id": 283,
+    "nameRu": "Панфиловская",
+    "nameEn": "Panfilovskaya",
+    "stationId": "line14_22",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 17,
+      "colorName": "ffcec6",
+      "nameRu": "МЦК",
+      "nameEn": "Moscow Central Circle",
+      "lineId": "line14",
+      "lineLogo": {
+        "number": "14",
+        "color": "#ffcec6"
+      }
+    }
+  },
+  {
+    "id": 234,
+    "nameRu": "Каховская",
+    "nameEn": "Kakhovskaya",
+    "stationId": "line11_18",
+    "status": false,
+    "hasSpecs": false,
+    "line": {
+      "id": 13,
+      "colorName": "89CDCF",
+      "nameRu": "Большая Кольцевая линия",
+      "nameEn": "Big Circle Line",
+      "lineId": "line11",
+      "lineLogo": {
+        "number": "11",
+        "color": "#89CDCF"
+      }
+    }
+  },
+  {
+    "id": 235,
+    "nameRu": "Варшавская",
+    "nameEn": "Varshavskaya",
+    "stationId": "line11_19",
+    "status": false,
+    "hasSpecs": false,
+    "line": {
+      "id": 13,
+      "colorName": "89CDCF",
+      "nameRu": "Большая Кольцевая линия",
+      "nameEn": "Big Circle Line",
+      "lineId": "line11",
+      "lineLogo": {
+        "number": "11",
+        "color": "#89CDCF"
+      }
+    }
+  },
+  {
+    "id": 62,
+    "nameRu": "Смоленская",
+    "nameEn": "Smolenskaya",
+    "stationId": "line3_12",
+    "status": false,
+    "hasSpecs": false,
+    "line": {
+      "id": 3,
+      "colorName": "0572b9",
+      "nameRu": "Арбатско-Покровская линия",
+      "nameEn": "Arbatsko-Pokrovskaya",
+      "lineId": "line3",
+      "lineLogo": {
+        "number": "3",
+        "color": "#0572b9"
+      }
+    }
+  },
+  {
+    "id": 6,
+    "nameRu": "Комсомольская",
+    "nameEn": "Komsomolskaya",
+    "stationId": "line1_6",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 1,
+      "colorName": "e42518",
+      "nameRu": "Сокольническая линия",
+      "nameEn": "Sokolnicheskaya",
+      "lineId": "line1",
+      "lineLogo": {
+        "number": "1",
+        "color": "#e42518"
+      }
+    }
+  },
+  {
+    "id": 248,
+    "nameRu": "Варшавская",
+    "nameEn": "Varshavskaya",
+    "stationId": "line11A_2",
+    "status": false,
+    "hasSpecs": false,
+    "line": {
+      "id": 14,
+      "colorName": "89CDCF",
+      "nameRu": "Каховская линия",
+      "nameEn": "Kakhovskaya",
+      "lineId": "line11A",
+      "lineLogo": {
+        "number": "11A",
+        "color": "#89CDCF"
+      }
+    }
+  },
+  {
+    "id": 144,
+    "nameRu": "Котельники",
+    "nameEn": "Kotelniki",
+    "stationId": "line7_23",
+    "status": true,
+    "hasSpecs": true,
+    "line": {
+      "id": 8,
+      "colorName": "943f90",
+      "nameRu": "Таганско-Краснопресненская линия",
+      "nameEn": "Tagansko-Krasnopresnenskaya",
+      "lineId": "line7",
+      "lineLogo": {
+        "number": "7",
+        "color": "#943f90"
+      }
+    }
+  },
+  {
+    "id": 319,
+    "nameRu": "Белорусская",
+    "nameEn": "Belorusskaya",
+    "stationId": "lineD1_17",
+    "status": true,
+    "hasSpecs": false,
+    "line": {
+      "id": 19,
+      "colorName": "f7a600",
+      "nameRu": "МЦД-1",
+      "nameEn": "MCD-1",
+      "lineId": "lineD1",
+      "lineLogo": {
+        "number": "D1",
+        "color": "#f7a600"
+      }
+    }
+  },
+  {
+    "id": 294,
+    "nameRu": "Авиамоторная",
+    "nameEn": "Aviamotornaya",
+    "stationId": "line15_1",
+    "status": true,
+    "hasSpecs": false,
+    "line":
+      {
+        "id": 18,
+        "colorName": "d68ab1",
+        "nameRu": "Некрасовская линия",
+        "nameEn": "Nekrasovskaya",
+        "lineId": "line15",
+        "terminal": null,
+        "lineLogo": {
+          "number": "15",
+          "color": "#d68ab1"
+        }
+      }
+  },
+  {
+    "id": 295,
+    "nameRu": "Нижегородская",
+    "nameEn": "Nizhegorodskaya",
+    "stationId": "line15_2",
+    "status": true,
+    "hasSpecs": false,
+    "line":
+      {
+        "id": 18,
+        "colorName": "d68ab1",
+        "nameRu": "Некрасовская линия",
+        "nameEn": "Nekrasovskaya",
+        "lineId": "line15",
+        "terminal": null,
+        "lineLogo": {
+          "number": "15",
+          "color": "#d68ab1"
+        }
+      }
+  },
+  {
+    "id": 302,
+    "nameRu": "Некрасовка",
+    "nameEn": "Nekrasovka",
+    "stationId": "line15_9",
+    "status": true,
+    "hasSpecs": true,
+    "line":
+      {
+        "id": 18,
+        "colorName": "d68ab1",
+        "nameRu": "Некрасовская линия",
+        "nameEn": "Nekrasovskaya",
+        "lineId": "line15",
+        "terminal": null,
+        "lineLogo": {
+          "number": "15",
+          "color": "#d68ab1"
+        }
+      }
+  },
+  {
+    "id": 301,
+    "nameRu": "Лухмановская",
+    "nameEn": "Lukhmanovskaya",
+    "stationId": "line15_8",
+    "status": true,
+    "hasSpecs": true,
+    "line":
+      {
+        "id": 18,
+        "colorName": "d68ab1",
+        "nameRu": "Некрасовская линия",
+        "nameEn": "Nekrasovskaya",
+        "lineId": "line15",
+        "terminal": null,
+        "lineLogo": {
+          "number": "15",
+          "color": "#d68ab1"
+        }
+      }
+  },
+  {
+    "id": 299,
+    "nameRu": "Косино",
+    "nameEn": "Kosino",
+    "stationId": "line15_6",
+    "status": true,
+    "hasSpecs": true,
+    "line":
+      {
+        "id": 18,
+        "colorName": "d68ab1",
+        "nameRu": "Некрасовская линия",
+        "nameEn": "Nekrasovskaya",
+        "lineId": "line15",
+        "terminal": null,
+        "lineLogo": {
+          "number": "15",
+          "color": "#d68ab1"
+        }
+      }
+  },
+  {
+    "id": 293,
+    "nameRu": "Лефортово",
+    "nameEn": "Lefortovo",
+    "stationId": "line15_0",
+    "status": true,
+    "hasSpecs": false,
+    "line":
+      {
+        "id": 18,
+        "colorName": "d68ab1",
+        "nameRu": "Некрасовская линия",
+        "nameEn": "Nekrasovskaya",
+        "lineId": "line15",
+        "terminal": null,
+        "lineLogo": {
+          "number": "15",
+          "color": "#d68ab1"
+        }
+      }
+  },
+  {
+    "id": 297,
+    "nameRu": "Окская",
+    "nameEn": "Okskaya",
+    "stationId": "line15_4",
+    "status": true,
+    "hasSpecs": false,
+    "line":
+      {
+        "id": 18,
+        "colorName": "d68ab1",
+        "nameRu": "Некрасовская линия",
+        "nameEn": "Nekrasovskaya",
+        "lineId": "line15",
+        "terminal": null,
+        "lineLogo": {
+          "number": "15",
+          "color": "#d68ab1"
+        }
+      }
+  },
+  {
+    "id": 296,
+    "nameRu": "Стахановская",
+    "nameEn": "Stakhanovskaya",
+    "stationId": "line15_3",
+    "status": true,
+    "hasSpecs": false,
+    "line":
+      {
+        "id": 18,
+        "colorName": "d68ab1",
+        "nameRu": "Некрасовская линия",
+        "nameEn": "Nekrasovskaya",
+        "lineId": "line15",
+        "terminal": null,
+        "lineLogo": {
+          "number": "15",
+          "color": "#d68ab1"
+        }
+      }
+  },
+  {
+    "id": 298,
+    "nameRu": "Юго-Восточная",
+    "nameEn": "Yugo-Vostochnaya",
+    "stationId": "line15_5",
+    "status": true,
+    "hasSpecs": false,
+    "line":
+      {
+        "id": 18,
+        "colorName": "d68ab1",
+        "nameRu": "Некрасовская линия",
+        "nameEn": "Nekrasovskaya",
+        "lineId": "line15",
+        "terminal": null,
+        "lineLogo": {
+          "number": "15",
+          "color": "#d68ab1"
+        }
+      }
+  },
+  {
+    "id": 300,
+    "nameRu": "Улица Дмитриевского",
+    "nameEn": "Ulitsa Dmitrievskogo",
+    "stationId": "line15_7",
+    "status": true,
+    "hasSpecs": true,
+    "line":
+      {
+        "id": 18,
+        "colorName": "d68ab1",
+        "nameRu": "Некрасовская линия",
+        "nameEn": "Nekrasovskaya",
+        "lineId": "line15",
+        "terminal": null,
+        "lineLogo": {
+          "number": "15",
+          "color": "#d68ab1"
+        }
+      }
+  }
+]
