@@ -12,4 +12,4 @@
 
 [Макеты](https://www.figma.com/file/rGhAeXHMgsffOo3rNA4CHb/YetiCrab-%E2%80%94-%D0%9F%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%BE%D0%B2-%D0%B8%C2%A0%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%B0%D1%8F-%D1%81%D1%85%D0%B5%D0%BC%D0%B0-%E2%80%A8%D0%BC%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE-%D0%BC%D0%B5%D1%82%D1%80%D0%BE?node-id=0%3A1)
 
-[Сборка для Android](/demo/YetiCrab.apk)
+[Сборка для Android](/demo/YetiCrab.apk) / [Альтернативная ссылка на сборку для Android](https://drive.google.com/file/d/1ieKajHzQjwRuyMZ6ZypeliKFKSEnJK_R/view)
